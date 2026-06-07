@@ -21,7 +21,7 @@ using Power BI for a small online seller.
 - 5 Categories, 25 Products, 5 Regions
 
 ## Dashboard Screenshot
-![Dashboard](file:///C:/Users/KARTHIK/Desktop/INTERNSHIP/FUTURE%20INTERNS/TASK%201/FUTURE_DS_01.pdf)
+![Dashboard]([file:///C:/Users/KARTHIK/Desktop/INTERNSHIP/FUTURE%20INTERNS/TASK%201/FUTURE_DS_01.pdf](https://drive.google.com/file/d/1axjEcjDj514o7ElDdort9bUOVDfB3qn6/view?usp=sharing))
 
 ## Author
 Karthik Boddupally
