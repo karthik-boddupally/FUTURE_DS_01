@@ -20,8 +20,9 @@ using Power BI for a small online seller.
 - 1,500 orders across 2024
 - 5 Categories, 25 Products, 5 Regions
 
-## Dashboard Screenshot
-![Dashboard]([file:///C:/Users/KARTHIK/Desktop/INTERNSHIP/FUTURE%20INTERNS/TASK%201/FUTURE_DS_01.pdf](https://drive.google.com/file/d/1axjEcjDj514o7ElDdort9bUOVDfB3qn6/view?usp=sharing))
+## Dashboard
+
+[📊 Click here to view Dashboard PDF](FUTURE_DS_01.pdf)
 
 ## Author
 Karthik Boddupally
