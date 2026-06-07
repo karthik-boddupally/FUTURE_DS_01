@@ -1,0 +1,1501 @@
+Order_ID,Date,Month,Year,Category,Product,Quantity,Unit_Price,Revenue,Cost,Profit,Region
+ORD1080,2024-01-01,January,2024,Home & Kitchen,Desk Lamp,3,776.0,2328.0,900,1428.0,Central
+ORD1523,2024-01-01,January,2024,Fashion,Casual Watch,3,1244.0,3732.0,1500,2232.0,South
+ORD1562,2024-01-01,January,2024,Beauty & Health,Lip Balm,3,143.0,429.0,120,309.0,South
+ORD1597,2024-01-01,January,2024,Home & Kitchen,Notebook Set,1,290.0,290.0,80,210.0,East
+ORD1812,2024-01-01,January,2024,Beauty & Health,Vitamin C Tablets,1,346.0,346.0,100,246.0,Central
+ORD2068,2024-01-01,January,2024,Sports & Fitness,Protein Shaker,2,335.0,670.0,200,470.0,North
+ORD2477,2024-01-02,January,2024,Beauty & Health,Face Wash,2,258.0,516.0,160,356.0,West
+ORD2003,2024-01-03,January,2024,Sports & Fitness,Skipping Rope,3,242.0,726.0,180,546.0,West
+ORD2195,2024-01-03,January,2024,Sports & Fitness,Gym Gloves,2,392.0,784.0,220,564.0,West
+ORD1238,2024-01-04,January,2024,Fashion,Sneakers,1,1879.0,1879.0,800,1079.0,East
+ORD1797,2024-01-04,January,2024,Sports & Fitness,Yoga Mat,1,794.0,794.0,250,544.0,North
+ORD1886,2024-01-04,January,2024,Sports & Fitness,Protein Shaker,3,338.0,1014.0,300,714.0,West
+ORD1935,2024-01-04,January,2024,Home & Kitchen,Coffee Mug,2,242.0,484.0,140,344.0,North
+ORD2472,2024-01-04,January,2024,Fashion,Casual Watch,2,1248.0,2496.0,1000,1496.0,Central
+ORD1185,2024-01-05,January,2024,Sports & Fitness,Resistance Bands,2,519.0,1038.0,300,738.0,East
+ORD1373,2024-01-05,January,2024,Home & Kitchen,Notebook Set,2,302.0,604.0,160,444.0,East
+ORD1654,2024-01-05,January,2024,Fashion,Sneakers,2,1818.0,3636.0,1600,2036.0,East
+ORD2083,2024-01-06,January,2024,Beauty & Health,Hair Serum,2,500.0,1000.0,320,680.0,Central
+ORD2326,2024-01-06,January,2024,Beauty & Health,Moisturizer,2,414.0,828.0,240,588.0,South
+ORD2492,2024-01-06,January,2024,Beauty & Health,Hair Serum,2,497.0,994.0,320,674.0,Central
+ORD1132,2024-01-07,January,2024,Sports & Fitness,Protein Shaker,2,348.0,696.0,200,496.0,East
+ORD1432,2024-01-07,January,2024,Electronics,Bluetooth Speaker,3,1532.0,4596.0,2100,2496.0,East
+ORD1456,2024-01-07,January,2024,Home & Kitchen,Wall Clock,1,592.0,592.0,200,392.0,Central
+ORD1552,2024-01-07,January,2024,Fashion,Cotton T-Shirt,2,398.0,796.0,240,556.0,South
+ORD1577,2024-01-07,January,2024,Electronics,Phone Case,2,288.0,576.0,160,416.0,East
+ORD1898,2024-01-07,January,2024,Electronics,Phone Case,2,296.0,592.0,160,432.0,South
+ORD2097,2024-01-07,January,2024,Home & Kitchen,Wall Clock,2,592.0,1184.0,400,784.0,Central
+ORD2223,2024-01-07,January,2024,Fashion,Sunglasses,2,586.0,1172.0,360,812.0,West
+ORD2247,2024-01-07,January,2024,Beauty & Health,Face Wash,3,246.0,738.0,240,498.0,North
+ORD1209,2024-01-08,January,2024,Home & Kitchen,Coffee Mug,1,251.0,251.0,70,181.0,South
+ORD1418,2024-01-08,January,2024,Fashion,Denim Jeans,1,1045.0,1045.0,350,695.0,West
+ORD2042,2024-01-08,January,2024,Sports & Fitness,Gym Gloves,1,400.0,400.0,110,290.0,Central
+ORD2238,2024-01-08,January,2024,Sports & Fitness,Yoga Mat,2,816.0,1632.0,500,1132.0,South
+ORD1433,2024-01-09,January,2024,Sports & Fitness,Skipping Rope,1,257.0,257.0,60,197.0,North
+ORD1763,2024-01-09,January,2024,Beauty & Health,Face Wash,3,250.0,750.0,240,510.0,North
+ORD2464,2024-01-09,January,2024,Fashion,Cotton T-Shirt,1,403.0,403.0,120,283.0,North
+ORD1242,2024-01-10,January,2024,Beauty & Health,Face Wash,3,258.0,774.0,240,534.0,West
+ORD1355,2024-01-10,January,2024,Beauty & Health,Lip Balm,2,148.0,296.0,80,216.0,South
+ORD1678,2024-01-10,January,2024,Electronics,Phone Case,2,291.0,582.0,160,422.0,East
+ORD1783,2024-01-10,January,2024,Sports & Fitness,Resistance Bands,3,515.0,1545.0,450,1095.0,West
+ORD1963,2024-01-10,January,2024,Home & Kitchen,Wall Clock,2,583.0,1166.0,400,766.0,Central
+ORD2114,2024-01-10,January,2024,Beauty & Health,Moisturizer,1,405.0,405.0,120,285.0,North
+ORD2259,2024-01-10,January,2024,Electronics,Portable Charger,1,933.0,933.0,400,533.0,West
+ORD2283,2024-01-10,January,2024,Sports & Fitness,Yoga Mat,1,805.0,805.0,250,555.0,West
+ORD2440,2024-01-10,January,2024,Electronics,Bluetooth Speaker,1,1451.0,1451.0,700,751.0,East
+ORD2452,2024-01-10,January,2024,Home & Kitchen,Notebook Set,1,313.0,313.0,80,233.0,South
+ORD1107,2024-01-11,January,2024,Sports & Fitness,Yoga Mat,2,778.0,1556.0,500,1056.0,North
+ORD1290,2024-01-11,January,2024,Beauty & Health,Hair Serum,2,476.0,952.0,320,632.0,East
+ORD1612,2024-01-11,January,2024,Home & Kitchen,Desk Lamp,1,835.0,835.0,300,535.0,East
+ORD1653,2024-01-11,January,2024,Electronics,Portable Charger,1,936.0,936.0,400,536.0,Central
+ORD1865,2024-01-11,January,2024,Beauty & Health,Face Wash,3,245.0,735.0,240,495.0,South
+ORD1338,2024-01-12,January,2024,Electronics,Portable Charger,1,899.0,899.0,400,499.0,South
+ORD1482,2024-01-12,January,2024,Home & Kitchen,Water Bottle,1,355.0,355.0,100,255.0,South
+ORD1801,2024-01-12,January,2024,Fashion,Cotton T-Shirt,3,384.0,1152.0,360,792.0,South
+ORD2273,2024-01-12,January,2024,Home & Kitchen,Wall Clock,2,603.0,1206.0,400,806.0,Central
+ORD1067,2024-01-13,January,2024,Fashion,Sneakers,2,1850.0,3700.0,1600,2100.0,South
+ORD1070,2024-01-13,January,2024,Fashion,Casual Watch,1,1277.0,1277.0,500,777.0,East
+ORD1084,2024-01-13,January,2024,Electronics,Phone Case,3,313.0,939.0,240,699.0,North
+ORD2167,2024-01-13,January,2024,Beauty & Health,Hair Serum,2,513.0,1026.0,320,706.0,South
+ORD2212,2024-01-14,January,2024,Electronics,Phone Case,2,292.0,584.0,160,424.0,North
+ORD2447,2024-01-14,January,2024,Electronics,USB-C Cable,2,197.0,394.0,120,274.0,South
+ORD1072,2024-01-15,January,2024,Electronics,USB-C Cable,2,193.0,386.0,120,266.0,North
+ORD1594,2024-01-15,January,2024,Home & Kitchen,Notebook Set,3,301.0,903.0,240,663.0,South
+ORD1646,2024-01-15,January,2024,Fashion,Denim Jeans,1,1036.0,1036.0,350,686.0,North
+ORD1704,2024-01-15,January,2024,Fashion,Casual Watch,1,1354.0,1354.0,500,854.0,West
+ORD2024,2024-01-15,January,2024,Fashion,Denim Jeans,2,982.0,1964.0,700,1264.0,West
+ORD2413,2024-01-15,January,2024,Sports & Fitness,Gym Gloves,2,389.0,778.0,220,558.0,West
+ORD1003,2024-01-16,January,2024,Electronics,Phone Case,3,291.0,873.0,240,633.0,North
+ORD1589,2024-01-16,January,2024,Home & Kitchen,Water Bottle,2,360.0,720.0,200,520.0,Central
+ORD2029,2024-01-16,January,2024,Home & Kitchen,Wall Clock,1,607.0,607.0,200,407.0,Central
+ORD1500,2024-01-17,January,2024,Home & Kitchen,Coffee Mug,1,250.0,250.0,70,180.0,West
+ORD1504,2024-01-17,January,2024,Beauty & Health,Lip Balm,1,147.0,147.0,40,107.0,West
+ORD1851,2024-01-17,January,2024,Sports & Fitness,Protein Shaker,1,345.0,345.0,100,245.0,West
+ORD1919,2024-01-17,January,2024,Fashion,Cotton T-Shirt,1,398.0,398.0,120,278.0,North
+ORD1983,2024-01-17,January,2024,Beauty & Health,Face Wash,2,260.0,520.0,160,360.0,South
+ORD1306,2024-01-18,January,2024,Fashion,Cotton T-Shirt,2,388.0,776.0,240,536.0,East
+ORD1583,2024-01-18,January,2024,Sports & Fitness,Gym Gloves,2,404.0,808.0,220,588.0,West
+ORD1899,2024-01-18,January,2024,Fashion,Casual Watch,1,1330.0,1330.0,500,830.0,Central
+ORD1934,2024-01-18,January,2024,Home & Kitchen,Notebook Set,1,285.0,285.0,80,205.0,East
+ORD2113,2024-01-18,January,2024,Electronics,Wireless Earbuds,2,1308.0,2616.0,1300,1316.0,West
+ORD2488,2024-01-18,January,2024,Beauty & Health,Lip Balm,1,155.0,155.0,40,115.0,South
+ORD1063,2024-01-19,January,2024,Home & Kitchen,Notebook Set,2,301.0,602.0,160,442.0,South
+ORD1154,2024-01-19,January,2024,Beauty & Health,Face Wash,2,244.0,488.0,160,328.0,North
+ORD1174,2024-01-19,January,2024,Sports & Fitness,Resistance Bands,2,486.0,972.0,300,672.0,South
+ORD1295,2024-01-19,January,2024,Home & Kitchen,Coffee Mug,1,238.0,238.0,70,168.0,North
+ORD1371,2024-01-20,January,2024,Fashion,Casual Watch,1,1349.0,1349.0,500,849.0,North
+ORD1150,2024-01-21,January,2024,Fashion,Casual Watch,2,1301.0,2602.0,1000,1602.0,East
+ORD1416,2024-01-21,January,2024,Electronics,Phone Case,3,308.0,924.0,240,684.0,Central
+ORD1539,2024-01-21,January,2024,Electronics,Portable Charger,3,900.0,2700.0,1200,1500.0,West
+ORD1910,2024-01-21,January,2024,Beauty & Health,Hair Serum,3,502.0,1506.0,480,1026.0,West
+ORD2428,2024-01-21,January,2024,Sports & Fitness,Yoga Mat,2,768.0,1536.0,500,1036.0,East
+ORD1064,2024-01-22,January,2024,Home & Kitchen,Desk Lamp,1,831.0,831.0,300,531.0,East
+ORD1440,2024-01-22,January,2024,Fashion,Denim Jeans,3,1039.0,3117.0,1050,2067.0,West
+ORD1986,2024-01-22,January,2024,Sports & Fitness,Skipping Rope,2,254.0,508.0,120,388.0,Central
+ORD2232,2024-01-22,January,2024,Fashion,Cotton T-Shirt,3,380.0,1140.0,360,780.0,Central
+ORD2331,2024-01-22,January,2024,Sports & Fitness,Yoga Mat,3,780.0,2340.0,750,1590.0,West
+ORD2395,2024-01-22,January,2024,Sports & Fitness,Resistance Bands,1,482.0,482.0,150,332.0,South
+ORD1293,2024-01-23,January,2024,Home & Kitchen,Notebook Set,1,294.0,294.0,80,214.0,West
+ORD1756,2024-01-23,January,2024,Home & Kitchen,Coffee Mug,1,245.0,245.0,70,175.0,North
+ORD1394,2024-01-24,January,2024,Beauty & Health,Lip Balm,3,152.0,456.0,120,336.0,North
+ORD1698,2024-01-24,January,2024,Electronics,Phone Case,1,304.0,304.0,80,224.0,East
+ORD1720,2024-01-24,January,2024,Fashion,Casual Watch,2,1252.0,2504.0,1000,1504.0,North
+ORD2392,2024-01-24,January,2024,Sports & Fitness,Protein Shaker,3,363.0,1089.0,300,789.0,Central
+ORD1609,2024-01-25,January,2024,Beauty & Health,Hair Serum,1,511.0,511.0,160,351.0,West
+ORD1088,2024-01-26,January,2024,Sports & Fitness,Yoga Mat,1,832.0,832.0,250,582.0,West
+ORD1205,2024-01-26,January,2024,Home & Kitchen,Coffee Mug,3,261.0,783.0,210,573.0,South
+ORD1335,2024-01-26,January,2024,Home & Kitchen,Wall Clock,2,621.0,1242.0,400,842.0,South
+ORD1640,2024-01-26,January,2024,Beauty & Health,Lip Balm,1,155.0,155.0,40,115.0,East
+ORD1711,2024-01-26,January,2024,Sports & Fitness,Yoga Mat,2,803.0,1606.0,500,1106.0,West
+ORD1921,2024-01-26,January,2024,Home & Kitchen,Coffee Mug,1,252.0,252.0,70,182.0,North
+ORD1948,2024-01-26,January,2024,Sports & Fitness,Skipping Rope,2,243.0,486.0,120,366.0,Central
+ORD2006,2024-01-26,January,2024,Fashion,Denim Jeans,2,955.0,1910.0,700,1210.0,North
+ORD1747,2024-01-27,January,2024,Sports & Fitness,Protein Shaker,3,349.0,1047.0,300,747.0,Central
+ORD1709,2024-01-28,January,2024,Electronics,Phone Case,2,299.0,598.0,160,438.0,West
+ORD1956,2024-01-28,January,2024,Fashion,Sunglasses,2,625.0,1250.0,360,890.0,North
+ORD1992,2024-01-28,January,2024,Sports & Fitness,Yoga Mat,2,796.0,1592.0,500,1092.0,North
+ORD2145,2024-01-28,January,2024,Fashion,Cotton T-Shirt,2,411.0,822.0,240,582.0,West
+ORD1391,2024-01-29,January,2024,Beauty & Health,Moisturizer,2,400.0,800.0,240,560.0,Central
+ORD1596,2024-01-29,January,2024,Fashion,Sunglasses,3,582.0,1746.0,540,1206.0,West
+ORD2269,2024-01-29,January,2024,Fashion,Denim Jeans,2,972.0,1944.0,700,1244.0,Central
+ORD1392,2024-01-30,January,2024,Sports & Fitness,Skipping Rope,2,253.0,506.0,120,386.0,North
+ORD1660,2024-01-30,January,2024,Sports & Fitness,Skipping Rope,1,253.0,253.0,60,193.0,North
+ORD2105,2024-01-30,January,2024,Sports & Fitness,Yoga Mat,1,835.0,835.0,250,585.0,North
+ORD2406,2024-01-30,January,2024,Sports & Fitness,Protein Shaker,3,346.0,1038.0,300,738.0,East
+ORD1907,2024-01-31,January,2024,Home & Kitchen,Coffee Mug,1,254.0,254.0,70,184.0,South
+ORD2233,2024-01-31,January,2024,Beauty & Health,Face Wash,1,259.0,259.0,80,179.0,North
+ORD2328,2024-01-31,January,2024,Electronics,USB-C Cable,2,208.0,416.0,120,296.0,East
+ORD1096,2024-02-01,February,2024,Fashion,Casual Watch,3,1285.0,3855.0,1500,2355.0,North
+ORD1258,2024-02-01,February,2024,Beauty & Health,Face Wash,2,257.0,514.0,160,354.0,North
+ORD1382,2024-02-01,February,2024,Electronics,Portable Charger,3,882.0,2646.0,1200,1446.0,Central
+ORD1625,2024-02-01,February,2024,Fashion,Cotton T-Shirt,2,382.0,764.0,240,524.0,Central
+ORD2086,2024-02-01,February,2024,Beauty & Health,Vitamin C Tablets,1,337.0,337.0,100,237.0,East
+ORD2109,2024-02-01,February,2024,Beauty & Health,Hair Serum,1,491.0,491.0,160,331.0,East
+ORD2405,2024-02-01,February,2024,Beauty & Health,Face Wash,1,253.0,253.0,80,173.0,Central
+ORD2421,2024-02-01,February,2024,Beauty & Health,Moisturizer,3,398.0,1194.0,360,834.0,North
+ORD2489,2024-02-01,February,2024,Beauty & Health,Face Wash,3,244.0,732.0,240,492.0,North
+ORD1095,2024-02-02,February,2024,Beauty & Health,Hair Serum,3,491.0,1473.0,480,993.0,West
+ORD1211,2024-02-02,February,2024,Beauty & Health,Hair Serum,3,513.0,1539.0,480,1059.0,Central
+ORD1875,2024-02-02,February,2024,Beauty & Health,Vitamin C Tablets,3,333.0,999.0,300,699.0,Central
+ORD2133,2024-02-02,February,2024,Fashion,Casual Watch,3,1278.0,3834.0,1500,2334.0,East
+ORD2287,2024-02-02,February,2024,Fashion,Casual Watch,2,1269.0,2538.0,1000,1538.0,South
+ORD2390,2024-02-02,February,2024,Home & Kitchen,Wall Clock,1,576.0,576.0,200,376.0,North
+ORD1134,2024-02-03,February,2024,Beauty & Health,Hair Serum,1,478.0,478.0,160,318.0,South
+ORD1262,2024-02-03,February,2024,Home & Kitchen,Water Bottle,3,351.0,1053.0,300,753.0,East
+ORD1579,2024-02-03,February,2024,Fashion,Casual Watch,1,1339.0,1339.0,500,839.0,East
+ORD1645,2024-02-03,February,2024,Home & Kitchen,Notebook Set,3,296.0,888.0,240,648.0,Central
+ORD1680,2024-02-03,February,2024,Electronics,USB-C Cable,3,208.0,624.0,180,444.0,Central
+ORD2208,2024-02-03,February,2024,Sports & Fitness,Skipping Rope,3,239.0,717.0,180,537.0,East
+ORD1034,2024-02-04,February,2024,Electronics,USB-C Cable,1,190.0,190.0,60,130.0,East
+ORD1749,2024-02-04,February,2024,Sports & Fitness,Yoga Mat,3,792.0,2376.0,750,1626.0,West
+ORD1962,2024-02-04,February,2024,Beauty & Health,Lip Balm,2,151.0,302.0,80,222.0,North
+ORD2022,2024-02-04,February,2024,Home & Kitchen,Desk Lamp,2,800.0,1600.0,600,1000.0,North
+ORD2432,2024-02-04,February,2024,Electronics,Portable Charger,2,897.0,1794.0,800,994.0,Central
+ORD1206,2024-02-05,February,2024,Sports & Fitness,Yoga Mat,1,806.0,806.0,250,556.0,East
+ORD1395,2024-02-05,February,2024,Beauty & Health,Face Wash,1,244.0,244.0,80,164.0,South
+ORD2460,2024-02-05,February,2024,Home & Kitchen,Water Bottle,1,345.0,345.0,100,245.0,South
+ORD1870,2024-02-06,February,2024,Electronics,Phone Case,2,294.0,588.0,160,428.0,East
+ORD1215,2024-02-07,February,2024,Electronics,USB-C Cable,1,201.0,201.0,60,141.0,South
+ORD1254,2024-02-07,February,2024,Home & Kitchen,Wall Clock,1,596.0,596.0,200,396.0,East
+ORD1319,2024-02-07,February,2024,Fashion,Sneakers,3,1825.0,5475.0,2400,3075.0,West
+ORD1538,2024-02-07,February,2024,Electronics,Bluetooth Speaker,2,1434.0,2868.0,1400,1468.0,South
+ORD1172,2024-02-08,February,2024,Beauty & Health,Lip Balm,3,147.0,441.0,120,321.0,North
+ORD1513,2024-02-08,February,2024,Electronics,Portable Charger,2,900.0,1800.0,800,1000.0,East
+ORD1695,2024-02-08,February,2024,Electronics,USB-C Cable,3,202.0,606.0,180,426.0,East
+ORD1555,2024-02-09,February,2024,Sports & Fitness,Protein Shaker,1,336.0,336.0,100,236.0,South
+ORD1606,2024-02-09,February,2024,Fashion,Sneakers,1,1886.0,1886.0,800,1086.0,North
+ORD2088,2024-02-09,February,2024,Home & Kitchen,Desk Lamp,2,770.0,1540.0,600,940.0,East
+ORD2343,2024-02-09,February,2024,Fashion,Casual Watch,2,1322.0,2644.0,1000,1644.0,North
+ORD1246,2024-02-10,February,2024,Beauty & Health,Lip Balm,1,153.0,153.0,40,113.0,East
+ORD1942,2024-02-10,February,2024,Electronics,USB-C Cable,3,196.0,588.0,180,408.0,West
+ORD2231,2024-02-10,February,2024,Beauty & Health,Face Wash,3,238.0,714.0,240,474.0,West
+ORD1050,2024-02-11,February,2024,Beauty & Health,Vitamin C Tablets,2,351.0,702.0,200,502.0,East
+ORD1105,2024-02-11,February,2024,Beauty & Health,Face Wash,1,255.0,255.0,80,175.0,East
+ORD1280,2024-02-11,February,2024,Home & Kitchen,Coffee Mug,1,237.0,237.0,70,167.0,East
+ORD2180,2024-02-11,February,2024,Beauty & Health,Moisturizer,1,391.0,391.0,120,271.0,North
+ORD1876,2024-02-12,February,2024,Electronics,USB-C Cable,1,201.0,201.0,60,141.0,West
+ORD2358,2024-02-12,February,2024,Home & Kitchen,Wall Clock,3,595.0,1785.0,600,1185.0,East
+ORD2364,2024-02-12,February,2024,Beauty & Health,Lip Balm,3,146.0,438.0,120,318.0,West
+ORD1028,2024-02-13,February,2024,Beauty & Health,Face Wash,3,261.0,783.0,240,543.0,South
+ORD1479,2024-02-13,February,2024,Electronics,Phone Case,2,294.0,588.0,160,428.0,West
+ORD2123,2024-02-13,February,2024,Beauty & Health,Moisturizer,1,385.0,385.0,120,265.0,North
+ORD2270,2024-02-13,February,2024,Electronics,USB-C Cable,1,191.0,191.0,60,131.0,North
+ORD2404,2024-02-13,February,2024,Home & Kitchen,Desk Lamp,1,791.0,791.0,300,491.0,West
+ORD1831,2024-02-14,February,2024,Home & Kitchen,Wall Clock,3,590.0,1770.0,600,1170.0,West
+ORD1971,2024-02-14,February,2024,Beauty & Health,Vitamin C Tablets,3,365.0,1095.0,300,795.0,South
+ORD2008,2024-02-14,February,2024,Electronics,Wireless Earbuds,1,1288.0,1288.0,650,638.0,South
+ORD2015,2024-02-14,February,2024,Beauty & Health,Vitamin C Tablets,2,364.0,728.0,200,528.0,West
+ORD2038,2024-02-14,February,2024,Home & Kitchen,Wall Clock,1,622.0,622.0,200,422.0,Central
+ORD2106,2024-02-14,February,2024,Sports & Fitness,Yoga Mat,3,789.0,2367.0,750,1617.0,South
+ORD2159,2024-02-14,February,2024,Beauty & Health,Vitamin C Tablets,1,349.0,349.0,100,249.0,Central
+ORD2370,2024-02-14,February,2024,Fashion,Denim Jeans,1,950.0,950.0,350,600.0,North
+ORD1675,2024-02-15,February,2024,Fashion,Sunglasses,3,595.0,1785.0,540,1245.0,West
+ORD1713,2024-02-15,February,2024,Beauty & Health,Hair Serum,3,490.0,1470.0,480,990.0,North
+ORD1952,2024-02-15,February,2024,Electronics,Portable Charger,2,892.0,1784.0,800,984.0,South
+ORD1965,2024-02-15,February,2024,Fashion,Denim Jeans,3,999.0,2997.0,1050,1947.0,Central
+ORD2081,2024-02-15,February,2024,Fashion,Casual Watch,1,1316.0,1316.0,500,816.0,Central
+ORD2139,2024-02-15,February,2024,Sports & Fitness,Protein Shaker,3,346.0,1038.0,300,738.0,South
+ORD2142,2024-02-15,February,2024,Home & Kitchen,Desk Lamp,3,793.0,2379.0,900,1479.0,South
+ORD2318,2024-02-15,February,2024,Beauty & Health,Moisturizer,1,389.0,389.0,120,269.0,North
+ORD1175,2024-02-16,February,2024,Beauty & Health,Face Wash,1,255.0,255.0,80,175.0,West
+ORD1193,2024-02-16,February,2024,Beauty & Health,Face Wash,1,243.0,243.0,80,163.0,West
+ORD1574,2024-02-16,February,2024,Fashion,Sneakers,1,1780.0,1780.0,800,980.0,East
+ORD1715,2024-02-16,February,2024,Sports & Fitness,Gym Gloves,3,404.0,1212.0,330,882.0,Central
+ORD2306,2024-02-16,February,2024,Fashion,Sneakers,1,1747.0,1747.0,800,947.0,West
+ORD2470,2024-02-16,February,2024,Sports & Fitness,Protein Shaker,1,360.0,360.0,100,260.0,South
+ORD1042,2024-02-17,February,2024,Fashion,Denim Jeans,3,990.0,2970.0,1050,1920.0,South
+ORD1083,2024-02-17,February,2024,Fashion,Sneakers,1,1749.0,1749.0,800,949.0,South
+ORD1160,2024-02-17,February,2024,Fashion,Cotton T-Shirt,1,397.0,397.0,120,277.0,South
+ORD1564,2024-02-17,February,2024,Electronics,Phone Case,3,311.0,933.0,240,693.0,West
+ORD1750,2024-02-17,February,2024,Home & Kitchen,Coffee Mug,2,259.0,518.0,140,378.0,East
+ORD1939,2024-02-17,February,2024,Sports & Fitness,Skipping Rope,1,251.0,251.0,60,191.0,North
+ORD2011,2024-02-17,February,2024,Home & Kitchen,Desk Lamp,3,788.0,2364.0,900,1464.0,North
+ORD1566,2024-02-18,February,2024,Sports & Fitness,Yoga Mat,3,810.0,2430.0,750,1680.0,North
+ORD1037,2024-02-19,February,2024,Beauty & Health,Lip Balm,3,148.0,444.0,120,324.0,North
+ORD1434,2024-02-19,February,2024,Sports & Fitness,Yoga Mat,3,778.0,2334.0,750,1584.0,Central
+ORD1918,2024-02-19,February,2024,Sports & Fitness,Resistance Bands,1,476.0,476.0,150,326.0,South
+ORD2131,2024-02-19,February,2024,Beauty & Health,Vitamin C Tablets,3,338.0,1014.0,300,714.0,North
+ORD2268,2024-02-19,February,2024,Beauty & Health,Lip Balm,3,156.0,468.0,120,348.0,East
+ORD2491,2024-02-19,February,2024,Sports & Fitness,Skipping Rope,3,242.0,726.0,180,546.0,Central
+ORD1218,2024-02-20,February,2024,Electronics,Bluetooth Speaker,1,1532.0,1532.0,700,832.0,West
+ORD1774,2024-02-20,February,2024,Fashion,Sunglasses,2,598.0,1196.0,360,836.0,East
+ORD1862,2024-02-20,February,2024,Fashion,Cotton T-Shirt,2,388.0,776.0,240,536.0,West
+ORD2036,2024-02-20,February,2024,Sports & Fitness,Yoga Mat,1,775.0,775.0,250,525.0,West
+ORD2103,2024-02-20,February,2024,Sports & Fitness,Resistance Bands,2,508.0,1016.0,300,716.0,South
+ORD2274,2024-02-20,February,2024,Beauty & Health,Face Wash,1,254.0,254.0,80,174.0,East
+ORD2397,2024-02-20,February,2024,Fashion,Sneakers,1,1769.0,1769.0,800,969.0,North
+ORD2420,2024-02-20,February,2024,Fashion,Casual Watch,1,1342.0,1342.0,500,842.0,North
+ORD1053,2024-02-21,February,2024,Electronics,Bluetooth Speaker,2,1456.0,2912.0,1400,1512.0,South
+ORD1368,2024-02-21,February,2024,Fashion,Cotton T-Shirt,1,418.0,418.0,120,298.0,West
+ORD1616,2024-02-21,February,2024,Home & Kitchen,Coffee Mug,3,261.0,783.0,210,573.0,Central
+ORD1858,2024-02-21,February,2024,Home & Kitchen,Coffee Mug,3,250.0,750.0,210,540.0,South
+ORD2309,2024-02-21,February,2024,Fashion,Sneakers,2,1800.0,3600.0,1600,2000.0,West
+ORD1249,2024-02-22,February,2024,Fashion,Sneakers,3,1745.0,5235.0,2400,2835.0,South
+ORD1526,2024-02-22,February,2024,Electronics,USB-C Cable,2,196.0,392.0,120,272.0,South
+ORD1714,2024-02-22,February,2024,Beauty & Health,Hair Serum,3,476.0,1428.0,480,948.0,North
+ORD2490,2024-02-22,February,2024,Electronics,Bluetooth Speaker,3,1432.0,4296.0,2100,2196.0,West
+ORD2148,2024-02-23,February,2024,Electronics,Bluetooth Speaker,1,1450.0,1450.0,700,750.0,West
+ORD2419,2024-02-23,February,2024,Home & Kitchen,Notebook Set,2,301.0,602.0,160,442.0,West
+ORD1452,2024-02-24,February,2024,Electronics,Wireless Earbuds,3,1357.0,4071.0,1950,2121.0,East
+ORD1636,2024-02-24,February,2024,Sports & Fitness,Resistance Bands,3,513.0,1539.0,450,1089.0,East
+ORD2132,2024-02-24,February,2024,Electronics,Portable Charger,3,908.0,2724.0,1200,1524.0,South
+ORD1073,2024-02-25,February,2024,Sports & Fitness,Skipping Rope,2,245.0,490.0,120,370.0,West
+ORD1110,2024-02-25,February,2024,Sports & Fitness,Resistance Bands,3,520.0,1560.0,450,1110.0,West
+ORD1212,2024-02-25,February,2024,Beauty & Health,Vitamin C Tablets,3,339.0,1017.0,300,717.0,North
+ORD1781,2024-02-25,February,2024,Fashion,Sunglasses,2,574.0,1148.0,360,788.0,South
+ORD1988,2024-02-25,February,2024,Beauty & Health,Hair Serum,1,515.0,515.0,160,355.0,South
+ORD2361,2024-02-25,February,2024,Sports & Fitness,Skipping Rope,3,247.0,741.0,180,561.0,Central
+ORD1599,2024-02-26,February,2024,Sports & Fitness,Protein Shaker,2,365.0,730.0,200,530.0,West
+ORD1694,2024-02-26,February,2024,Sports & Fitness,Skipping Rope,1,240.0,240.0,60,180.0,Central
+ORD2107,2024-02-26,February,2024,Fashion,Sneakers,1,1762.0,1762.0,800,962.0,West
+ORD2151,2024-02-26,February,2024,Home & Kitchen,Coffee Mug,3,239.0,717.0,210,507.0,South
+ORD2172,2024-02-26,February,2024,Beauty & Health,Lip Balm,1,148.0,148.0,40,108.0,East
+ORD2394,2024-02-26,February,2024,Electronics,Bluetooth Speaker,1,1515.0,1515.0,700,815.0,Central
+ORD1388,2024-02-27,February,2024,Electronics,Bluetooth Speaker,1,1559.0,1559.0,700,859.0,Central
+ORD1903,2024-02-27,February,2024,Fashion,Casual Watch,1,1276.0,1276.0,500,776.0,East
+ORD2033,2024-02-27,February,2024,Home & Kitchen,Water Bottle,1,359.0,359.0,100,259.0,West
+ORD2242,2024-02-27,February,2024,Home & Kitchen,Water Bottle,3,348.0,1044.0,300,744.0,South
+ORD2295,2024-02-27,February,2024,Sports & Fitness,Gym Gloves,3,416.0,1248.0,330,918.0,Central
+ORD1490,2024-02-28,February,2024,Home & Kitchen,Desk Lamp,3,827.0,2481.0,900,1581.0,South
+ORD2023,2024-02-28,February,2024,Home & Kitchen,Desk Lamp,3,791.0,2373.0,900,1473.0,Central
+ORD2363,2024-02-28,February,2024,Beauty & Health,Moisturizer,3,410.0,1230.0,360,870.0,North
+ORD1390,2024-02-29,February,2024,Fashion,Sunglasses,3,598.0,1794.0,540,1254.0,West
+ORD1544,2024-02-29,February,2024,Beauty & Health,Vitamin C Tablets,2,353.0,706.0,200,506.0,South
+ORD2198,2024-02-29,February,2024,Home & Kitchen,Water Bottle,1,346.0,346.0,100,246.0,West
+ORD2381,2024-02-29,February,2024,Beauty & Health,Vitamin C Tablets,2,364.0,728.0,200,528.0,West
+ORD1492,2024-03-01,March,2024,Fashion,Sneakers,2,1730.0,3460.0,1600,1860.0,South
+ORD1505,2024-03-01,March,2024,Fashion,Denim Jeans,4,1030.0,4120.0,1400,2720.0,East
+ORD1668,2024-03-01,March,2024,Beauty & Health,Face Wash,4,258.0,1032.0,320,712.0,Central
+ORD1811,2024-03-01,March,2024,Electronics,Portable Charger,4,913.0,3652.0,1600,2052.0,Central
+ORD2019,2024-03-01,March,2024,Electronics,Portable Charger,1,910.0,910.0,400,510.0,South
+ORD2127,2024-03-01,March,2024,Fashion,Sunglasses,4,597.0,2388.0,720,1668.0,South
+ORD1049,2024-03-02,March,2024,Sports & Fitness,Yoga Mat,1,805.0,805.0,250,555.0,Central
+ORD1545,2024-03-02,March,2024,Electronics,Phone Case,1,305.0,305.0,80,225.0,West
+ORD1630,2024-03-02,March,2024,Beauty & Health,Moisturizer,1,417.0,417.0,120,297.0,South
+ORD1852,2024-03-02,March,2024,Sports & Fitness,Skipping Rope,1,244.0,244.0,60,184.0,North
+ORD1943,2024-03-02,March,2024,Fashion,Sunglasses,3,625.0,1875.0,540,1335.0,North
+ORD2134,2024-03-02,March,2024,Sports & Fitness,Gym Gloves,1,385.0,385.0,110,275.0,North
+ORD2214,2024-03-02,March,2024,Home & Kitchen,Wall Clock,1,629.0,629.0,200,429.0,Central
+ORD2248,2024-03-02,March,2024,Fashion,Casual Watch,4,1286.0,5144.0,2000,3144.0,North
+ORD1580,2024-03-03,March,2024,Electronics,Portable Charger,4,859.0,3436.0,1600,1836.0,West
+ORD2297,2024-03-03,March,2024,Home & Kitchen,Desk Lamp,3,826.0,2478.0,900,1578.0,South
+ORD1519,2024-03-04,March,2024,Fashion,Casual Watch,3,1293.0,3879.0,1500,2379.0,South
+ORD1769,2024-03-04,March,2024,Electronics,Wireless Earbuds,3,1308.0,3924.0,1950,1974.0,Central
+ORD1996,2024-03-04,March,2024,Electronics,Wireless Earbuds,2,1326.0,2652.0,1300,1352.0,North
+ORD2468,2024-03-04,March,2024,Beauty & Health,Lip Balm,3,156.0,468.0,120,348.0,North
+ORD2496,2024-03-05,March,2024,Sports & Fitness,Protein Shaker,3,344.0,1032.0,300,732.0,Central
+ORD1029,2024-03-06,March,2024,Beauty & Health,Vitamin C Tablets,4,337.0,1348.0,400,948.0,Central
+ORD1775,2024-03-06,March,2024,Fashion,Cotton T-Shirt,1,390.0,390.0,120,270.0,South
+ORD1850,2024-03-06,March,2024,Electronics,Bluetooth Speaker,3,1544.0,4632.0,2100,2532.0,Central
+ORD2067,2024-03-06,March,2024,Home & Kitchen,Water Bottle,4,344.0,1376.0,400,976.0,North
+ORD2230,2024-03-06,March,2024,Fashion,Denim Jeans,1,980.0,980.0,350,630.0,South
+ORD2498,2024-03-06,March,2024,Home & Kitchen,Notebook Set,2,297.0,594.0,160,434.0,East
+ORD1240,2024-03-07,March,2024,Beauty & Health,Vitamin C Tablets,4,356.0,1424.0,400,1024.0,Central
+ORD1333,2024-03-07,March,2024,Home & Kitchen,Notebook Set,2,301.0,602.0,160,442.0,South
+ORD1679,2024-03-07,March,2024,Electronics,Portable Charger,2,899.0,1798.0,800,998.0,South
+ORD2017,2024-03-07,March,2024,Sports & Fitness,Gym Gloves,3,399.0,1197.0,330,867.0,West
+ORD2425,2024-03-07,March,2024,Sports & Fitness,Gym Gloves,1,384.0,384.0,110,274.0,West
+ORD1702,2024-03-08,March,2024,Electronics,Phone Case,4,287.0,1148.0,320,828.0,West
+ORD1878,2024-03-08,March,2024,Sports & Fitness,Yoga Mat,2,761.0,1522.0,500,1022.0,East
+ORD2049,2024-03-08,March,2024,Electronics,Portable Charger,2,863.0,1726.0,800,926.0,West
+ORD2187,2024-03-08,March,2024,Home & Kitchen,Coffee Mug,1,256.0,256.0,70,186.0,West
+ORD2227,2024-03-08,March,2024,Electronics,Portable Charger,2,885.0,1770.0,800,970.0,South
+ORD2353,2024-03-08,March,2024,Home & Kitchen,Water Bottle,4,361.0,1444.0,400,1044.0,South
+ORD1089,2024-03-09,March,2024,Beauty & Health,Vitamin C Tablets,4,366.0,1464.0,400,1064.0,East
+ORD1341,2024-03-09,March,2024,Home & Kitchen,Desk Lamp,2,820.0,1640.0,600,1040.0,North
+ORD1642,2024-03-09,March,2024,Home & Kitchen,Wall Clock,2,615.0,1230.0,400,830.0,East
+ORD1786,2024-03-09,March,2024,Beauty & Health,Vitamin C Tablets,3,349.0,1047.0,300,747.0,East
+ORD1802,2024-03-09,March,2024,Sports & Fitness,Resistance Bands,1,519.0,519.0,150,369.0,North
+ORD1880,2024-03-10,March,2024,Sports & Fitness,Yoga Mat,3,806.0,2418.0,750,1668.0,Central
+ORD1094,2024-03-11,March,2024,Fashion,Denim Jeans,1,987.0,987.0,350,637.0,South
+ORD1347,2024-03-11,March,2024,Home & Kitchen,Wall Clock,1,600.0,600.0,200,400.0,Central
+ORD1585,2024-03-11,March,2024,Beauty & Health,Moisturizer,4,405.0,1620.0,480,1140.0,South
+ORD1671,2024-03-11,March,2024,Fashion,Sneakers,4,1783.0,7132.0,3200,3932.0,West
+ORD2074,2024-03-11,March,2024,Beauty & Health,Hair Serum,4,519.0,2076.0,640,1436.0,West
+ORD2174,2024-03-11,March,2024,Home & Kitchen,Coffee Mug,3,250.0,750.0,210,540.0,Central
+ORD2434,2024-03-11,March,2024,Sports & Fitness,Skipping Rope,3,256.0,768.0,180,588.0,South
+ORD1002,2024-03-12,March,2024,Electronics,Bluetooth Speaker,3,1437.0,4311.0,2100,2211.0,North
+ORD1316,2024-03-12,March,2024,Fashion,Casual Watch,4,1237.0,4948.0,2000,2948.0,Central
+ORD1379,2024-03-12,March,2024,Beauty & Health,Lip Balm,1,155.0,155.0,40,115.0,East
+ORD1427,2024-03-12,March,2024,Sports & Fitness,Skipping Rope,4,241.0,964.0,240,724.0,North
+ORD1458,2024-03-12,March,2024,Home & Kitchen,Desk Lamp,1,780.0,780.0,300,480.0,North
+ORD1530,2024-03-12,March,2024,Electronics,Bluetooth Speaker,2,1533.0,3066.0,1400,1666.0,West
+ORD2071,2024-03-12,March,2024,Fashion,Sunglasses,2,592.0,1184.0,360,824.0,West
+ORD1192,2024-03-13,March,2024,Fashion,Casual Watch,4,1360.0,5440.0,2000,3440.0,East
+ORD1512,2024-03-13,March,2024,Sports & Fitness,Protein Shaker,3,353.0,1059.0,300,759.0,West
+ORD2333,2024-03-13,March,2024,Home & Kitchen,Water Bottle,1,342.0,342.0,100,242.0,West
+ORD1287,2024-03-14,March,2024,Home & Kitchen,Wall Clock,2,569.0,1138.0,400,738.0,South
+ORD1332,2024-03-14,March,2024,Home & Kitchen,Desk Lamp,2,818.0,1636.0,600,1036.0,West
+ORD1672,2024-03-14,March,2024,Home & Kitchen,Coffee Mug,3,256.0,768.0,210,558.0,East
+ORD1806,2024-03-14,March,2024,Sports & Fitness,Yoga Mat,4,809.0,3236.0,1000,2236.0,East
+ORD2073,2024-03-14,March,2024,Beauty & Health,Hair Serum,1,523.0,523.0,160,363.0,North
+ORD2207,2024-03-14,March,2024,Fashion,Sneakers,4,1794.0,7176.0,3200,3976.0,East
+ORD1281,2024-03-15,March,2024,Fashion,Cotton T-Shirt,3,390.0,1170.0,360,810.0,South
+ORD1735,2024-03-15,March,2024,Electronics,Wireless Earbuds,1,1260.0,1260.0,650,610.0,East
+ORD1825,2024-03-15,March,2024,Beauty & Health,Vitamin C Tablets,1,347.0,347.0,100,247.0,East
+ORD1859,2024-03-15,March,2024,Fashion,Casual Watch,1,1339.0,1339.0,500,839.0,West
+ORD2007,2024-03-15,March,2024,Electronics,Bluetooth Speaker,2,1550.0,3100.0,1400,1700.0,East
+ORD2092,2024-03-15,March,2024,Sports & Fitness,Yoga Mat,3,826.0,2478.0,750,1728.0,West
+ORD2236,2024-03-15,March,2024,Home & Kitchen,Notebook Set,1,294.0,294.0,80,214.0,Central
+ORD1207,2024-03-16,March,2024,Sports & Fitness,Resistance Bands,1,488.0,488.0,150,338.0,South
+ORD1354,2024-03-16,March,2024,Fashion,Cotton T-Shirt,1,402.0,402.0,120,282.0,South
+ORD2203,2024-03-16,March,2024,Beauty & Health,Lip Balm,1,147.0,147.0,40,107.0,East
+ORD2253,2024-03-16,March,2024,Beauty & Health,Face Wash,3,240.0,720.0,240,480.0,West
+ORD2340,2024-03-16,March,2024,Electronics,USB-C Cable,2,191.0,382.0,120,262.0,South
+ORD2408,2024-03-16,March,2024,Beauty & Health,Hair Serum,4,506.0,2024.0,640,1384.0,Central
+ORD1135,2024-03-17,March,2024,Sports & Fitness,Protein Shaker,1,335.0,335.0,100,235.0,North
+ORD2359,2024-03-17,March,2024,Fashion,Sneakers,4,1860.0,7440.0,3200,4240.0,West
+ORD1478,2024-03-18,March,2024,Home & Kitchen,Water Bottle,2,348.0,696.0,200,496.0,West
+ORD1221,2024-03-19,March,2024,Beauty & Health,Face Wash,1,239.0,239.0,80,159.0,North
+ORD1326,2024-03-19,March,2024,Fashion,Sunglasses,4,612.0,2448.0,720,1728.0,East
+ORD1451,2024-03-19,March,2024,Beauty & Health,Moisturizer,2,409.0,818.0,240,578.0,East
+ORD1541,2024-03-19,March,2024,Home & Kitchen,Water Bottle,4,342.0,1368.0,400,968.0,South
+ORD1777,2024-03-19,March,2024,Sports & Fitness,Gym Gloves,2,394.0,788.0,220,568.0,West
+ORD2072,2024-03-19,March,2024,Home & Kitchen,Coffee Mug,1,240.0,240.0,70,170.0,North
+ORD2345,2024-03-19,March,2024,Electronics,Wireless Earbuds,3,1294.0,3882.0,1950,1932.0,West
+ORD1006,2024-03-20,March,2024,Fashion,Sneakers,3,1727.0,5181.0,2400,2781.0,North
+ORD1045,2024-03-20,March,2024,Fashion,Sneakers,1,1748.0,1748.0,800,948.0,Central
+ORD1542,2024-03-20,March,2024,Sports & Fitness,Protein Shaker,1,345.0,345.0,100,245.0,East
+ORD1937,2024-03-20,March,2024,Electronics,Wireless Earbuds,1,1294.0,1294.0,650,644.0,South
+ORD1906,2024-03-21,March,2024,Beauty & Health,Face Wash,2,254.0,508.0,160,348.0,North
+ORD2138,2024-03-21,March,2024,Electronics,Portable Charger,1,861.0,861.0,400,461.0,South
+ORD2313,2024-03-21,March,2024,Fashion,Sunglasses,1,612.0,612.0,180,432.0,Central
+ORD1091,2024-03-22,March,2024,Beauty & Health,Hair Serum,1,487.0,487.0,160,327.0,East
+ORD1336,2024-03-22,March,2024,Home & Kitchen,Notebook Set,1,306.0,306.0,80,226.0,South
+ORD1901,2024-03-22,March,2024,Electronics,Bluetooth Speaker,2,1502.0,3004.0,1400,1604.0,West
+ORD2291,2024-03-22,March,2024,Home & Kitchen,Coffee Mug,2,237.0,474.0,140,334.0,Central
+ORD1013,2024-03-24,March,2024,Beauty & Health,Hair Serum,4,488.0,1952.0,640,1312.0,South
+ORD1145,2024-03-25,March,2024,Home & Kitchen,Notebook Set,4,306.0,1224.0,320,904.0,East
+ORD1710,2024-03-25,March,2024,Electronics,Portable Charger,2,883.0,1766.0,800,966.0,East
+ORD2181,2024-03-25,March,2024,Home & Kitchen,Water Bottle,3,356.0,1068.0,300,768.0,South
+ORD1176,2024-03-26,March,2024,Home & Kitchen,Water Bottle,1,333.0,333.0,100,233.0,East
+ORD1459,2024-03-26,March,2024,Beauty & Health,Lip Balm,3,148.0,444.0,120,324.0,North
+ORD1495,2024-03-26,March,2024,Beauty & Health,Lip Balm,2,144.0,288.0,80,208.0,West
+ORD1499,2024-03-26,March,2024,Electronics,Bluetooth Speaker,1,1429.0,1429.0,700,729.0,East
+ORD1757,2024-03-26,March,2024,Sports & Fitness,Gym Gloves,1,379.0,379.0,110,269.0,South
+ORD1803,2024-03-26,March,2024,Home & Kitchen,Coffee Mug,3,249.0,747.0,210,537.0,Central
+ORD1807,2024-03-26,March,2024,Home & Kitchen,Wall Clock,1,605.0,605.0,200,405.0,South
+ORD1873,2024-03-26,March,2024,Fashion,Cotton T-Shirt,1,384.0,384.0,120,264.0,East
+ORD1929,2024-03-26,March,2024,Fashion,Sunglasses,2,593.0,1186.0,360,826.0,South
+ORD2085,2024-03-26,March,2024,Electronics,Bluetooth Speaker,4,1536.0,6144.0,2800,3344.0,East
+ORD2189,2024-03-26,March,2024,Sports & Fitness,Yoga Mat,2,816.0,1632.0,500,1132.0,South
+ORD1247,2024-03-27,March,2024,Electronics,Bluetooth Speaker,4,1519.0,6076.0,2800,3276.0,Central
+ORD1778,2024-03-27,March,2024,Electronics,USB-C Cable,1,194.0,194.0,60,134.0,West
+ORD1830,2024-03-27,March,2024,Electronics,USB-C Cable,1,194.0,194.0,60,134.0,South
+ORD2249,2024-03-27,March,2024,Electronics,USB-C Cable,2,208.0,416.0,120,296.0,South
+ORD2341,2024-03-27,March,2024,Sports & Fitness,Protein Shaker,4,351.0,1404.0,400,1004.0,South
+ORD2445,2024-03-27,March,2024,Home & Kitchen,Coffee Mug,1,241.0,241.0,70,171.0,South
+ORD1613,2024-03-28,March,2024,Beauty & Health,Moisturizer,4,408.0,1632.0,480,1152.0,North
+ORD2157,2024-03-28,March,2024,Home & Kitchen,Coffee Mug,4,259.0,1036.0,280,756.0,South
+ORD1140,2024-03-29,March,2024,Sports & Fitness,Resistance Bands,3,482.0,1446.0,450,996.0,West
+ORD1313,2024-03-29,March,2024,Beauty & Health,Face Wash,2,257.0,514.0,160,354.0,East
+ORD1744,2024-03-29,March,2024,Sports & Fitness,Resistance Bands,3,493.0,1479.0,450,1029.0,East
+ORD2315,2024-03-29,March,2024,Sports & Fitness,Protein Shaker,1,359.0,359.0,100,259.0,North
+ORD1409,2024-03-30,March,2024,Beauty & Health,Vitamin C Tablets,2,349.0,698.0,200,498.0,West
+ORD1828,2024-03-30,March,2024,Beauty & Health,Hair Serum,4,475.0,1900.0,640,1260.0,East
+ORD2141,2024-03-30,March,2024,Sports & Fitness,Resistance Bands,3,504.0,1512.0,450,1062.0,Central
+ORD2190,2024-03-30,March,2024,Fashion,Denim Jeans,1,973.0,973.0,350,623.0,East
+ORD1598,2024-03-31,March,2024,Home & Kitchen,Water Bottle,4,332.0,1328.0,400,928.0,South
+ORD2121,2024-03-31,March,2024,Sports & Fitness,Resistance Bands,1,522.0,522.0,150,372.0,East
+ORD2146,2024-03-31,March,2024,Fashion,Cotton T-Shirt,2,381.0,762.0,240,522.0,East
+ORD2261,2024-03-31,March,2024,Sports & Fitness,Protein Shaker,1,362.0,362.0,100,262.0,West
+ORD2292,2024-03-31,March,2024,Electronics,Portable Charger,1,924.0,924.0,400,524.0,North
+ORD1024,2024-04-01,April,2024,Sports & Fitness,Resistance Bands,2,517.0,1034.0,300,734.0,Central
+ORD1553,2024-04-01,April,2024,Electronics,Bluetooth Speaker,3,1544.0,4632.0,2100,2532.0,South
+ORD1821,2024-04-01,April,2024,Home & Kitchen,Notebook Set,2,301.0,602.0,160,442.0,East
+ORD1151,2024-04-02,April,2024,Sports & Fitness,Skipping Rope,3,252.0,756.0,180,576.0,North
+ORD1229,2024-04-02,April,2024,Home & Kitchen,Desk Lamp,2,833.0,1666.0,600,1066.0,North
+ORD1230,2024-04-02,April,2024,Fashion,Sunglasses,1,608.0,608.0,180,428.0,South
+ORD1267,2024-04-02,April,2024,Fashion,Sneakers,3,1880.0,5640.0,2400,3240.0,South
+ORD2018,2024-04-02,April,2024,Sports & Fitness,Yoga Mat,1,816.0,816.0,250,566.0,North
+ORD2324,2024-04-02,April,2024,Beauty & Health,Moisturizer,2,380.0,760.0,240,520.0,South
+ORD1040,2024-04-03,April,2024,Home & Kitchen,Wall Clock,1,584.0,584.0,200,384.0,West
+ORD1103,2024-04-03,April,2024,Electronics,USB-C Cable,1,197.0,197.0,60,137.0,West
+ORD1321,2024-04-03,April,2024,Fashion,Casual Watch,1,1299.0,1299.0,500,799.0,North
+ORD1666,2024-04-03,April,2024,Home & Kitchen,Water Bottle,1,339.0,339.0,100,239.0,East
+ORD1133,2024-04-04,April,2024,Electronics,USB-C Cable,3,208.0,624.0,180,444.0,North
+ORD1411,2024-04-04,April,2024,Sports & Fitness,Skipping Rope,1,243.0,243.0,60,183.0,East
+ORD2366,2024-04-04,April,2024,Electronics,Bluetooth Speaker,1,1463.0,1463.0,700,763.0,West
+ORD1048,2024-04-05,April,2024,Electronics,Bluetooth Speaker,1,1434.0,1434.0,700,734.0,West
+ORD1310,2024-04-05,April,2024,Beauty & Health,Vitamin C Tablets,4,345.0,1380.0,400,980.0,North
+ORD1893,2024-04-05,April,2024,Electronics,USB-C Cable,3,194.0,582.0,180,402.0,North
+ORD1892,2024-04-06,April,2024,Home & Kitchen,Water Bottle,4,337.0,1348.0,400,948.0,North
+ORD1978,2024-04-06,April,2024,Electronics,Phone Case,4,290.0,1160.0,320,840.0,Central
+ORD2184,2024-04-06,April,2024,Electronics,Wireless Earbuds,1,1347.0,1347.0,650,697.0,Central
+ORD2225,2024-04-06,April,2024,Sports & Fitness,Gym Gloves,4,407.0,1628.0,440,1188.0,Central
+ORD2246,2024-04-06,April,2024,Electronics,Portable Charger,2,938.0,1876.0,800,1076.0,South
+ORD2337,2024-04-06,April,2024,Fashion,Cotton T-Shirt,1,388.0,388.0,120,268.0,West
+ORD1911,2024-04-07,April,2024,Sports & Fitness,Yoga Mat,2,802.0,1604.0,500,1104.0,West
+ORD1127,2024-04-08,April,2024,Home & Kitchen,Water Bottle,1,357.0,357.0,100,257.0,South
+ORD1631,2024-04-08,April,2024,Fashion,Cotton T-Shirt,3,396.0,1188.0,360,828.0,South
+ORD1909,2024-04-08,April,2024,Electronics,Portable Charger,1,886.0,886.0,400,486.0,East
+ORD2143,2024-04-08,April,2024,Electronics,Bluetooth Speaker,4,1570.0,6280.0,2800,3480.0,East
+ORD2289,2024-04-08,April,2024,Electronics,Phone Case,2,308.0,616.0,160,456.0,West
+ORD1248,2024-04-09,April,2024,Home & Kitchen,Desk Lamp,1,817.0,817.0,300,517.0,South
+ORD1497,2024-04-09,April,2024,Beauty & Health,Vitamin C Tablets,3,349.0,1047.0,300,747.0,West
+ORD1743,2024-04-09,April,2024,Home & Kitchen,Wall Clock,1,580.0,580.0,200,380.0,South
+ORD1829,2024-04-09,April,2024,Electronics,Bluetooth Speaker,1,1501.0,1501.0,700,801.0,Central
+ORD2101,2024-04-09,April,2024,Sports & Fitness,Protein Shaker,1,355.0,355.0,100,255.0,East
+ORD2481,2024-04-09,April,2024,Home & Kitchen,Water Bottle,1,362.0,362.0,100,262.0,South
+ORD1691,2024-04-11,April,2024,Sports & Fitness,Yoga Mat,4,821.0,3284.0,1000,2284.0,South
+ORD1275,2024-04-12,April,2024,Sports & Fitness,Yoga Mat,1,829.0,829.0,250,579.0,West
+ORD1620,2024-04-12,April,2024,Electronics,Wireless Earbuds,2,1261.0,2522.0,1300,1222.0,North
+ORD1731,2024-04-12,April,2024,Fashion,Sunglasses,2,612.0,1224.0,360,864.0,South
+ORD2210,2024-04-12,April,2024,Fashion,Casual Watch,3,1272.0,3816.0,1500,2316.0,North
+ORD2387,2024-04-12,April,2024,Fashion,Sunglasses,3,599.0,1797.0,540,1257.0,West
+ORD2375,2024-04-13,April,2024,Home & Kitchen,Notebook Set,3,309.0,927.0,240,687.0,North
+ORD2398,2024-04-13,April,2024,Beauty & Health,Hair Serum,1,512.0,512.0,160,352.0,South
+ORD2449,2024-04-13,April,2024,Fashion,Sunglasses,3,604.0,1812.0,540,1272.0,Central
+ORD1051,2024-04-14,April,2024,Home & Kitchen,Coffee Mug,1,243.0,243.0,70,173.0,East
+ORD1414,2024-04-14,April,2024,Home & Kitchen,Water Bottle,2,364.0,728.0,200,528.0,North
+ORD2182,2024-04-14,April,2024,Sports & Fitness,Resistance Bands,4,489.0,1956.0,600,1356.0,South
+ORD1403,2024-04-15,April,2024,Electronics,Wireless Earbuds,3,1311.0,3933.0,1950,1983.0,Central
+ORD1480,2024-04-15,April,2024,Sports & Fitness,Skipping Rope,1,245.0,245.0,60,185.0,West
+ORD1507,2024-04-15,April,2024,Electronics,Bluetooth Speaker,2,1477.0,2954.0,1400,1554.0,Central
+ORD1688,2024-04-15,April,2024,Electronics,USB-C Cable,1,197.0,197.0,60,137.0,Central
+ORD1716,2024-04-15,April,2024,Beauty & Health,Lip Balm,1,147.0,147.0,40,107.0,South
+ORD2140,2024-04-15,April,2024,Fashion,Sneakers,3,1803.0,5409.0,2400,3009.0,South
+ORD2441,2024-04-15,April,2024,Fashion,Sunglasses,4,596.0,2384.0,720,1664.0,Central
+ORD1139,2024-04-16,April,2024,Fashion,Sneakers,1,1828.0,1828.0,800,1028.0,South
+ORD1443,2024-04-16,April,2024,Sports & Fitness,Yoga Mat,3,819.0,2457.0,750,1707.0,North
+ORD1693,2024-04-16,April,2024,Beauty & Health,Lip Balm,1,145.0,145.0,40,105.0,North
+ORD1922,2024-04-16,April,2024,Beauty & Health,Face Wash,1,248.0,248.0,80,168.0,East
+ORD2386,2024-04-16,April,2024,Home & Kitchen,Water Bottle,1,355.0,355.0,100,255.0,South
+ORD1065,2024-04-17,April,2024,Fashion,Cotton T-Shirt,4,393.0,1572.0,480,1092.0,West
+ORD1856,2024-04-17,April,2024,Beauty & Health,Lip Balm,3,147.0,441.0,120,321.0,East
+ORD1958,2024-04-17,April,2024,Sports & Fitness,Yoga Mat,4,775.0,3100.0,1000,2100.0,East
+ORD2147,2024-04-17,April,2024,Beauty & Health,Lip Balm,3,147.0,441.0,120,321.0,North
+ORD1016,2024-04-18,April,2024,Beauty & Health,Hair Serum,3,518.0,1554.0,480,1074.0,South
+ORD2348,2024-04-18,April,2024,Electronics,USB-C Cable,1,195.0,195.0,60,135.0,North
+ORD2277,2024-04-19,April,2024,Home & Kitchen,Desk Lamp,4,763.0,3052.0,1200,1852.0,West
+ORD1128,2024-04-20,April,2024,Beauty & Health,Lip Balm,4,152.0,608.0,160,448.0,Central
+ORD1925,2024-04-20,April,2024,Sports & Fitness,Resistance Bands,1,479.0,479.0,150,329.0,Central
+ORD2205,2024-04-20,April,2024,Beauty & Health,Hair Serum,2,514.0,1028.0,320,708.0,South
+ORD2431,2024-04-20,April,2024,Fashion,Casual Watch,4,1234.0,4936.0,2000,2936.0,East
+ORD1417,2024-04-21,April,2024,Beauty & Health,Moisturizer,2,414.0,828.0,240,588.0,East
+ORD1430,2024-04-21,April,2024,Sports & Fitness,Skipping Rope,4,246.0,984.0,240,744.0,Central
+ORD2112,2024-04-21,April,2024,Sports & Fitness,Resistance Bands,2,520.0,1040.0,300,740.0,North
+ORD2165,2024-04-21,April,2024,Fashion,Sneakers,1,1762.0,1762.0,800,962.0,North
+ORD1099,2024-04-22,April,2024,Beauty & Health,Moisturizer,3,390.0,1170.0,360,810.0,North
+ORD1888,2024-04-22,April,2024,Home & Kitchen,Water Bottle,1,346.0,346.0,100,246.0,Central
+ORD1069,2024-04-23,April,2024,Fashion,Casual Watch,1,1279.0,1279.0,500,779.0,South
+ORD1124,2024-04-23,April,2024,Beauty & Health,Moisturizer,4,391.0,1564.0,480,1084.0,East
+ORD1408,2024-04-23,April,2024,Beauty & Health,Lip Balm,4,146.0,584.0,160,424.0,Central
+ORD1605,2024-04-23,April,2024,Sports & Fitness,Resistance Bands,1,521.0,521.0,150,371.0,East
+ORD1652,2024-04-23,April,2024,Fashion,Denim Jeans,3,976.0,2928.0,1050,1878.0,Central
+ORD1826,2024-04-23,April,2024,Home & Kitchen,Water Bottle,3,353.0,1059.0,300,759.0,West
+ORD2469,2024-04-23,April,2024,Electronics,USB-C Cable,2,203.0,406.0,120,286.0,South
+ORD1106,2024-04-24,April,2024,Electronics,Wireless Earbuds,1,1332.0,1332.0,650,682.0,South
+ORD1226,2024-04-24,April,2024,Electronics,USB-C Cable,2,206.0,412.0,120,292.0,North
+ORD1556,2024-04-24,April,2024,Sports & Fitness,Resistance Bands,1,522.0,522.0,150,372.0,West
+ORD2317,2024-04-24,April,2024,Electronics,Wireless Earbuds,4,1354.0,5416.0,2600,2816.0,South
+ORD1268,2024-04-25,April,2024,Fashion,Denim Jeans,1,957.0,957.0,350,607.0,Central
+ORD2278,2024-04-25,April,2024,Sports & Fitness,Resistance Bands,4,510.0,2040.0,600,1440.0,North
+ORD1683,2024-04-26,April,2024,Fashion,Denim Jeans,1,970.0,970.0,350,620.0,Central
+ORD1033,2024-04-27,April,2024,Sports & Fitness,Yoga Mat,1,760.0,760.0,250,510.0,South
+ORD1186,2024-04-27,April,2024,Sports & Fitness,Protein Shaker,1,339.0,339.0,100,239.0,Central
+ORD1980,2024-04-28,April,2024,Electronics,USB-C Cable,3,191.0,573.0,180,393.0,South
+ORD2254,2024-04-28,April,2024,Fashion,Cotton T-Shirt,1,383.0,383.0,120,263.0,North
+ORD2379,2024-04-28,April,2024,Electronics,Bluetooth Speaker,4,1427.0,5708.0,2800,2908.0,East
+ORD1405,2024-04-29,April,2024,Sports & Fitness,Yoga Mat,1,819.0,819.0,250,569.0,South
+ORD1561,2024-04-29,April,2024,Sports & Fitness,Protein Shaker,1,354.0,354.0,100,254.0,East
+ORD1815,2024-04-29,April,2024,Electronics,USB-C Cable,4,201.0,804.0,240,564.0,West
+ORD1894,2024-04-29,April,2024,Electronics,Phone Case,1,284.0,284.0,80,204.0,East
+ORD1955,2024-04-29,April,2024,Fashion,Sneakers,1,1737.0,1737.0,800,937.0,North
+ORD2436,2024-04-29,April,2024,Beauty & Health,Lip Balm,3,150.0,450.0,120,330.0,East
+ORD1093,2024-04-30,April,2024,Home & Kitchen,Desk Lamp,4,785.0,3140.0,1200,1940.0,North
+ORD1712,2024-04-30,April,2024,Electronics,Portable Charger,4,894.0,3576.0,1600,1976.0,West
+ORD2069,2024-04-30,April,2024,Beauty & Health,Vitamin C Tablets,2,345.0,690.0,200,490.0,West
+ORD1593,2024-05-01,May,2024,Sports & Fitness,Protein Shaker,2,360.0,720.0,200,520.0,Central
+ORD1739,2024-05-01,May,2024,Sports & Fitness,Protein Shaker,1,356.0,356.0,100,256.0,West
+ORD2093,2024-05-01,May,2024,Beauty & Health,Moisturizer,2,387.0,774.0,240,534.0,North
+ORD1285,2024-05-02,May,2024,Beauty & Health,Vitamin C Tablets,1,348.0,348.0,100,248.0,West
+ORD2350,2024-05-02,May,2024,Beauty & Health,Face Wash,1,237.0,237.0,80,157.0,South
+ORD1122,2024-05-03,May,2024,Beauty & Health,Hair Serum,1,502.0,502.0,160,342.0,West
+ORD1649,2024-05-03,May,2024,Home & Kitchen,Wall Clock,1,605.0,605.0,200,405.0,West
+ORD1753,2024-05-03,May,2024,Sports & Fitness,Gym Gloves,1,389.0,389.0,110,279.0,East
+ORD1845,2024-05-03,May,2024,Home & Kitchen,Coffee Mug,1,242.0,242.0,70,172.0,Central
+ORD2286,2024-05-03,May,2024,Fashion,Sneakers,3,1861.0,5583.0,2400,3183.0,East
+ORD1419,2024-05-04,May,2024,Sports & Fitness,Yoga Mat,1,791.0,791.0,250,541.0,Central
+ORD1457,2024-05-04,May,2024,Sports & Fitness,Gym Gloves,3,386.0,1158.0,330,828.0,South
+ORD1559,2024-05-04,May,2024,Beauty & Health,Lip Balm,3,150.0,450.0,120,330.0,South
+ORD1951,2024-05-04,May,2024,Electronics,USB-C Cable,2,205.0,410.0,120,290.0,Central
+ORD2130,2024-05-04,May,2024,Fashion,Cotton T-Shirt,1,386.0,386.0,120,266.0,East
+ORD1330,2024-05-05,May,2024,Beauty & Health,Lip Balm,1,148.0,148.0,40,108.0,South
+ORD2005,2024-05-05,May,2024,Sports & Fitness,Protein Shaker,4,353.0,1412.0,400,1012.0,South
+ORD2044,2024-05-05,May,2024,Fashion,Cotton T-Shirt,2,391.0,782.0,240,542.0,Central
+ORD2463,2024-05-05,May,2024,Home & Kitchen,Desk Lamp,4,776.0,3104.0,1200,1904.0,East
+ORD1032,2024-05-06,May,2024,Fashion,Cotton T-Shirt,4,393.0,1572.0,480,1092.0,Central
+ORD2161,2024-05-06,May,2024,Home & Kitchen,Wall Clock,4,604.0,2416.0,800,1616.0,South
+ORD2485,2024-05-06,May,2024,Electronics,Portable Charger,2,875.0,1750.0,800,950.0,North
+ORD1039,2024-05-07,May,2024,Fashion,Denim Jeans,1,1003.0,1003.0,350,653.0,West
+ORD1511,2024-05-07,May,2024,Fashion,Sneakers,3,1858.0,5574.0,2400,3174.0,West
+ORD1647,2024-05-07,May,2024,Electronics,Portable Charger,2,859.0,1718.0,800,918.0,South
+ORD1187,2024-05-08,May,2024,Fashion,Cotton T-Shirt,1,415.0,415.0,120,295.0,East
+ORD1741,2024-05-08,May,2024,Fashion,Sunglasses,3,621.0,1863.0,540,1323.0,South
+ORD1761,2024-05-08,May,2024,Sports & Fitness,Resistance Bands,1,503.0,503.0,150,353.0,East
+ORD2282,2024-05-08,May,2024,Sports & Fitness,Gym Gloves,4,397.0,1588.0,440,1148.0,South
+ORD1263,2024-05-09,May,2024,Sports & Fitness,Yoga Mat,4,786.0,3144.0,1000,2144.0,South
+ORD1291,2024-05-09,May,2024,Electronics,USB-C Cable,2,205.0,410.0,120,290.0,South
+ORD1297,2024-05-09,May,2024,Electronics,Phone Case,1,293.0,293.0,80,213.0,East
+ORD1435,2024-05-09,May,2024,Home & Kitchen,Desk Lamp,1,823.0,823.0,300,523.0,East
+ORD1772,2024-05-09,May,2024,Fashion,Cotton T-Shirt,4,386.0,1544.0,480,1064.0,North
+ORD2362,2024-05-09,May,2024,Home & Kitchen,Desk Lamp,4,806.0,3224.0,1200,2024.0,North
+ORD1075,2024-05-10,May,2024,Electronics,Portable Charger,4,854.0,3416.0,1600,1816.0,South
+ORD1721,2024-05-10,May,2024,Sports & Fitness,Yoga Mat,3,774.0,2322.0,750,1572.0,South
+ORD1933,2024-05-10,May,2024,Home & Kitchen,Wall Clock,3,596.0,1788.0,600,1188.0,North
+ORD1283,2024-05-11,May,2024,Fashion,Denim Jeans,4,1004.0,4016.0,1400,2616.0,Central
+ORD1816,2024-05-11,May,2024,Fashion,Cotton T-Shirt,1,407.0,407.0,120,287.0,Central
+ORD1837,2024-05-11,May,2024,Sports & Fitness,Gym Gloves,3,389.0,1167.0,330,837.0,West
+ORD2089,2024-05-11,May,2024,Electronics,Wireless Earbuds,4,1312.0,5248.0,2600,2648.0,South
+ORD2288,2024-05-11,May,2024,Sports & Fitness,Yoga Mat,1,791.0,791.0,250,541.0,South
+ORD2217,2024-05-12,May,2024,Fashion,Sunglasses,2,573.0,1146.0,360,786.0,West
+ORD2475,2024-05-12,May,2024,Sports & Fitness,Yoga Mat,2,829.0,1658.0,500,1158.0,South
+ORD1421,2024-05-13,May,2024,Home & Kitchen,Notebook Set,3,310.0,930.0,240,690.0,North
+ORD1575,2024-05-13,May,2024,Fashion,Cotton T-Shirt,3,417.0,1251.0,360,891.0,Central
+ORD1819,2024-05-13,May,2024,Sports & Fitness,Skipping Rope,4,251.0,1004.0,240,764.0,East
+ORD1883,2024-05-13,May,2024,Fashion,Sneakers,4,1711.0,6844.0,3200,3644.0,South
+ORD2338,2024-05-13,May,2024,Fashion,Casual Watch,3,1291.0,3873.0,1500,2373.0,North
+ORD2389,2024-05-13,May,2024,Home & Kitchen,Coffee Mug,4,241.0,964.0,280,684.0,North
+ORD1311,2024-05-14,May,2024,Home & Kitchen,Wall Clock,4,582.0,2328.0,800,1528.0,East
+ORD1017,2024-05-15,May,2024,Fashion,Denim Jeans,4,1023.0,4092.0,1400,2692.0,East
+ORD1057,2024-05-15,May,2024,Electronics,Wireless Earbuds,1,1330.0,1330.0,650,680.0,East
+ORD1210,2024-05-15,May,2024,Electronics,Phone Case,4,306.0,1224.0,320,904.0,North
+ORD1696,2024-05-15,May,2024,Beauty & Health,Face Wash,1,239.0,239.0,80,159.0,North
+ORD1938,2024-05-15,May,2024,Home & Kitchen,Notebook Set,2,292.0,584.0,160,424.0,East
+ORD2110,2024-05-15,May,2024,Fashion,Casual Watch,1,1243.0,1243.0,500,743.0,Central
+ORD2335,2024-05-15,May,2024,Sports & Fitness,Protein Shaker,1,347.0,347.0,100,247.0,East
+ORD2423,2024-05-15,May,2024,Sports & Fitness,Skipping Rope,3,252.0,756.0,180,576.0,West
+ORD1068,2024-05-16,May,2024,Fashion,Cotton T-Shirt,1,394.0,394.0,120,274.0,West
+ORD1924,2024-05-16,May,2024,Sports & Fitness,Resistance Bands,2,511.0,1022.0,300,722.0,North
+ORD1979,2024-05-16,May,2024,Sports & Fitness,Gym Gloves,4,403.0,1612.0,440,1172.0,South
+ORD2322,2024-05-16,May,2024,Home & Kitchen,Wall Clock,3,592.0,1776.0,600,1176.0,South
+ORD1502,2024-05-17,May,2024,Sports & Fitness,Protein Shaker,1,350.0,350.0,100,250.0,West
+ORD1844,2024-05-17,May,2024,Fashion,Denim Jeans,1,999.0,999.0,350,649.0,South
+ORD2284,2024-05-17,May,2024,Sports & Fitness,Gym Gloves,3,413.0,1239.0,330,909.0,Central
+ORD1441,2024-05-18,May,2024,Electronics,Wireless Earbuds,2,1323.0,2646.0,1300,1346.0,Central
+ORD1453,2024-05-18,May,2024,Electronics,Phone Case,3,287.0,861.0,240,621.0,West
+ORD1689,2024-05-18,May,2024,Sports & Fitness,Gym Gloves,3,407.0,1221.0,330,891.0,North
+ORD2155,2024-05-18,May,2024,Fashion,Sneakers,4,1732.0,6928.0,3200,3728.0,North
+ORD1298,2024-05-19,May,2024,Electronics,USB-C Cable,3,198.0,594.0,180,414.0,West
+ORD1216,2024-05-20,May,2024,Sports & Fitness,Gym Gloves,2,401.0,802.0,220,582.0,West
+ORD1362,2024-05-20,May,2024,Home & Kitchen,Water Bottle,4,352.0,1408.0,400,1008.0,West
+ORD1648,2024-05-20,May,2024,Home & Kitchen,Wall Clock,1,599.0,599.0,200,399.0,North
+ORD1674,2024-05-20,May,2024,Fashion,Denim Jeans,1,1007.0,1007.0,350,657.0,West
+ORD1912,2024-05-20,May,2024,Sports & Fitness,Gym Gloves,4,385.0,1540.0,440,1100.0,South
+ORD1659,2024-05-21,May,2024,Home & Kitchen,Desk Lamp,4,774.0,3096.0,1200,1896.0,South
+ORD1779,2024-05-21,May,2024,Home & Kitchen,Coffee Mug,2,253.0,506.0,140,366.0,West
+ORD1834,2024-05-21,May,2024,Fashion,Sunglasses,3,627.0,1881.0,540,1341.0,West
+ORD1969,2024-05-21,May,2024,Electronics,USB-C Cable,1,207.0,207.0,60,147.0,Central
+ORD2108,2024-05-21,May,2024,Beauty & Health,Lip Balm,1,145.0,145.0,40,105.0,East
+ORD1005,2024-05-22,May,2024,Electronics,Phone Case,2,305.0,610.0,160,450.0,East
+ORD1118,2024-05-22,May,2024,Beauty & Health,Moisturizer,4,409.0,1636.0,480,1156.0,Central
+ORD1227,2024-05-22,May,2024,Sports & Fitness,Yoga Mat,4,824.0,3296.0,1000,2296.0,Central
+ORD1360,2024-05-22,May,2024,Sports & Fitness,Protein Shaker,2,339.0,678.0,200,478.0,East
+ORD2251,2024-05-22,May,2024,Sports & Fitness,Gym Gloves,3,390.0,1170.0,330,840.0,East
+ORD2480,2024-05-22,May,2024,Beauty & Health,Vitamin C Tablets,1,347.0,347.0,100,247.0,West
+ORD1466,2024-05-23,May,2024,Beauty & Health,Lip Balm,4,143.0,572.0,160,412.0,South
+ORD1970,2024-05-23,May,2024,Fashion,Denim Jeans,3,983.0,2949.0,1050,1899.0,South
+ORD2156,2024-05-23,May,2024,Fashion,Cotton T-Shirt,3,413.0,1239.0,360,879.0,West
+ORD2334,2024-05-23,May,2024,Home & Kitchen,Wall Clock,2,586.0,1172.0,400,772.0,Central
+ORD1058,2024-05-24,May,2024,Sports & Fitness,Yoga Mat,1,816.0,816.0,250,566.0,East
+ORD1129,2024-05-24,May,2024,Electronics,Phone Case,2,293.0,586.0,160,426.0,South
+ORD1557,2024-05-24,May,2024,Home & Kitchen,Desk Lamp,3,766.0,2298.0,900,1398.0,North
+ORD1277,2024-05-25,May,2024,Electronics,Phone Case,4,292.0,1168.0,320,848.0,South
+ORD1651,2024-05-25,May,2024,Electronics,Portable Charger,4,859.0,3436.0,1600,1836.0,South
+ORD1961,2024-05-25,May,2024,Fashion,Sunglasses,3,585.0,1755.0,540,1215.0,North
+ORD2104,2024-05-25,May,2024,Home & Kitchen,Coffee Mug,4,237.0,948.0,280,668.0,North
+ORD2344,2024-05-25,May,2024,Electronics,Portable Charger,1,888.0,888.0,400,488.0,East
+ORD1255,2024-05-26,May,2024,Electronics,Wireless Earbuds,4,1314.0,5256.0,2600,2656.0,West
+ORD1370,2024-05-26,May,2024,Electronics,Wireless Earbuds,1,1319.0,1319.0,650,669.0,Central
+ORD1734,2024-05-26,May,2024,Beauty & Health,Face Wash,1,250.0,250.0,80,170.0,West
+ORD1158,2024-05-27,May,2024,Beauty & Health,Hair Serum,4,480.0,1920.0,640,1280.0,South
+ORD1181,2024-05-27,May,2024,Sports & Fitness,Yoga Mat,2,765.0,1530.0,500,1030.0,Central
+ORD1343,2024-05-27,May,2024,Electronics,Portable Charger,4,899.0,3596.0,1600,1996.0,East
+ORD1842,2024-05-27,May,2024,Electronics,Portable Charger,2,915.0,1830.0,800,1030.0,North
+ORD1010,2024-05-28,May,2024,Electronics,Phone Case,3,310.0,930.0,240,690.0,East
+ORD1239,2024-05-28,May,2024,Home & Kitchen,Water Bottle,3,332.0,996.0,300,696.0,South
+ORD1697,2024-05-28,May,2024,Home & Kitchen,Desk Lamp,1,793.0,793.0,300,493.0,North
+ORD1765,2024-05-28,May,2024,Home & Kitchen,Notebook Set,3,287.0,861.0,240,621.0,West
+ORD2196,2024-05-28,May,2024,Sports & Fitness,Yoga Mat,3,823.0,2469.0,750,1719.0,East
+ORD1465,2024-05-29,May,2024,Beauty & Health,Vitamin C Tablets,2,359.0,718.0,200,518.0,West
+ORD1568,2024-05-29,May,2024,Home & Kitchen,Desk Lamp,3,833.0,2499.0,900,1599.0,East
+ORD2064,2024-05-29,May,2024,Beauty & Health,Vitamin C Tablets,1,352.0,352.0,100,252.0,South
+ORD1023,2024-05-30,May,2024,Beauty & Health,Moisturizer,2,397.0,794.0,240,554.0,Central
+ORD1665,2024-05-30,May,2024,Electronics,Portable Charger,2,866.0,1732.0,800,932.0,Central
+ORD1189,2024-05-31,May,2024,Home & Kitchen,Wall Clock,1,580.0,580.0,200,380.0,Central
+ORD2360,2024-05-31,May,2024,Sports & Fitness,Resistance Bands,1,502.0,502.0,150,352.0,Central
+ORD1658,2024-06-01,June,2024,Electronics,Portable Charger,3,860.0,2580.0,1200,1380.0,East
+ORD2352,2024-06-01,June,2024,Beauty & Health,Hair Serum,3,511.0,1533.0,480,1053.0,Central
+ORD2416,2024-06-01,June,2024,Sports & Fitness,Resistance Bands,2,497.0,994.0,300,694.0,Central
+ORD1182,2024-06-02,June,2024,Beauty & Health,Lip Balm,3,148.0,444.0,120,324.0,South
+ORD1444,2024-06-02,June,2024,Fashion,Sunglasses,4,583.0,2332.0,720,1612.0,Central
+ORD1628,2024-06-02,June,2024,Electronics,Portable Charger,1,935.0,935.0,400,535.0,Central
+ORD1861,2024-06-02,June,2024,Home & Kitchen,Notebook Set,1,310.0,310.0,80,230.0,West
+ORD1885,2024-06-02,June,2024,Electronics,Portable Charger,5,926.0,4630.0,2000,2630.0,South
+ORD2027,2024-06-02,June,2024,Sports & Fitness,Protein Shaker,1,351.0,351.0,100,251.0,South
+ORD2281,2024-06-02,June,2024,Beauty & Health,Vitamin C Tablets,4,342.0,1368.0,400,968.0,West
+ORD1130,2024-06-03,June,2024,Electronics,Bluetooth Speaker,1,1443.0,1443.0,700,743.0,North
+ORD1656,2024-06-03,June,2024,Sports & Fitness,Gym Gloves,1,395.0,395.0,110,285.0,North
+ORD2211,2024-06-03,June,2024,Sports & Fitness,Protein Shaker,4,349.0,1396.0,400,996.0,South
+ORD2234,2024-06-03,June,2024,Electronics,Wireless Earbuds,5,1336.0,6680.0,3250,3430.0,South
+ORD2410,2024-06-03,June,2024,Electronics,Wireless Earbuds,4,1304.0,5216.0,2600,2616.0,South
+ORD1641,2024-06-04,June,2024,Home & Kitchen,Desk Lamp,1,826.0,826.0,300,526.0,South
+ORD1991,2024-06-04,June,2024,Home & Kitchen,Wall Clock,3,579.0,1737.0,600,1137.0,Central
+ORD2256,2024-06-04,June,2024,Sports & Fitness,Gym Gloves,1,383.0,383.0,110,273.0,Central
+ORD2369,2024-06-04,June,2024,Sports & Fitness,Gym Gloves,4,393.0,1572.0,440,1132.0,East
+ORD2388,2024-06-04,June,2024,Fashion,Denim Jeans,1,1005.0,1005.0,350,655.0,East
+ORD2429,2024-06-04,June,2024,Home & Kitchen,Wall Clock,2,571.0,1142.0,400,742.0,South
+ORD1944,2024-06-05,June,2024,Sports & Fitness,Resistance Bands,5,490.0,2450.0,750,1700.0,South
+ORD1572,2024-06-06,June,2024,Beauty & Health,Lip Balm,1,154.0,154.0,40,114.0,South
+ORD2061,2024-06-06,June,2024,Beauty & Health,Face Wash,5,251.0,1255.0,400,855.0,West
+ORD2446,2024-06-06,June,2024,Beauty & Health,Moisturizer,3,381.0,1143.0,360,783.0,South
+ORD1318,2024-06-07,June,2024,Beauty & Health,Hair Serum,4,500.0,2000.0,640,1360.0,Central
+ORD1877,2024-06-07,June,2024,Fashion,Denim Jeans,4,1023.0,4092.0,1400,2692.0,South
+ORD2245,2024-06-08,June,2024,Beauty & Health,Moisturizer,3,401.0,1203.0,360,843.0,West
+ORD2412,2024-06-08,June,2024,Sports & Fitness,Protein Shaker,2,358.0,716.0,200,516.0,North
+ORD1077,2024-06-09,June,2024,Electronics,USB-C Cable,4,199.0,796.0,240,556.0,East
+ORD1571,2024-06-09,June,2024,Beauty & Health,Face Wash,2,250.0,500.0,160,340.0,West
+ORD2293,2024-06-09,June,2024,Sports & Fitness,Protein Shaker,4,362.0,1448.0,400,1048.0,East
+ORD2407,2024-06-09,June,2024,Home & Kitchen,Water Bottle,5,360.0,1800.0,500,1300.0,Central
+ORD1296,2024-06-10,June,2024,Home & Kitchen,Notebook Set,5,296.0,1480.0,400,1080.0,West
+ORD1531,2024-06-10,June,2024,Fashion,Denim Jeans,1,977.0,977.0,350,627.0,South
+ORD1569,2024-06-11,June,2024,Beauty & Health,Lip Balm,2,145.0,290.0,80,210.0,South
+ORD1776,2024-06-11,June,2024,Beauty & Health,Hair Serum,3,490.0,1470.0,480,990.0,Central
+ORD1977,2024-06-12,June,2024,Beauty & Health,Hair Serum,3,489.0,1467.0,480,987.0,South
+ORD1420,2024-06-13,June,2024,Home & Kitchen,Wall Clock,3,597.0,1791.0,600,1191.0,East
+ORD1554,2024-06-13,June,2024,Fashion,Casual Watch,3,1353.0,4059.0,1500,2559.0,East
+ORD1953,2024-06-13,June,2024,Home & Kitchen,Notebook Set,3,304.0,912.0,240,672.0,South
+ORD2040,2024-06-13,June,2024,Fashion,Denim Jeans,5,978.0,4890.0,1750,3140.0,East
+ORD2266,2024-06-13,June,2024,Electronics,Wireless Earbuds,2,1311.0,2622.0,1300,1322.0,East
+ORD2442,2024-06-13,June,2024,Beauty & Health,Vitamin C Tablets,1,333.0,333.0,100,233.0,East
+ORD1252,2024-06-14,June,2024,Home & Kitchen,Coffee Mug,4,248.0,992.0,280,712.0,West
+ORD1244,2024-06-15,June,2024,Fashion,Sunglasses,3,597.0,1791.0,540,1251.0,North
+ORD1867,2024-06-15,June,2024,Sports & Fitness,Skipping Rope,4,256.0,1024.0,240,784.0,North
+ORD1931,2024-06-15,June,2024,Home & Kitchen,Wall Clock,4,615.0,2460.0,800,1660.0,East
+ORD1940,2024-06-15,June,2024,Beauty & Health,Moisturizer,5,399.0,1995.0,600,1395.0,North
+ORD2435,2024-06-15,June,2024,Electronics,Bluetooth Speaker,4,1524.0,6096.0,2800,3296.0,West
+ORD1104,2024-06-16,June,2024,Home & Kitchen,Wall Clock,4,586.0,2344.0,800,1544.0,East
+ORD1302,2024-06-16,June,2024,Home & Kitchen,Desk Lamp,4,795.0,3180.0,1200,1980.0,South
+ORD1945,2024-06-16,June,2024,Sports & Fitness,Yoga Mat,4,771.0,3084.0,1000,2084.0,West
+ORD2062,2024-06-16,June,2024,Beauty & Health,Face Wash,2,239.0,478.0,160,318.0,Central
+ORD2244,2024-06-16,June,2024,Beauty & Health,Face Wash,4,246.0,984.0,320,664.0,Central
+ORD1153,2024-06-17,June,2024,Beauty & Health,Hair Serum,4,488.0,1952.0,640,1312.0,Central
+ORD1173,2024-06-17,June,2024,Sports & Fitness,Skipping Rope,4,260.0,1040.0,240,800.0,Central
+ORD1973,2024-06-17,June,2024,Beauty & Health,Vitamin C Tablets,2,336.0,672.0,200,472.0,Central
+ORD2483,2024-06-17,June,2024,Home & Kitchen,Water Bottle,1,353.0,353.0,100,253.0,North
+ORD1351,2024-06-18,June,2024,Electronics,Portable Charger,1,907.0,907.0,400,507.0,Central
+ORD1445,2024-06-18,June,2024,Beauty & Health,Moisturizer,1,411.0,411.0,120,291.0,Central
+ORD1746,2024-06-18,June,2024,Beauty & Health,Moisturizer,3,381.0,1143.0,360,783.0,Central
+ORD1896,2024-06-18,June,2024,Electronics,Phone Case,4,286.0,1144.0,320,824.0,North
+ORD2084,2024-06-18,June,2024,Beauty & Health,Lip Balm,3,156.0,468.0,120,348.0,East
+ORD1967,2024-06-19,June,2024,Beauty & Health,Hair Serum,1,511.0,511.0,160,351.0,East
+ORD2376,2024-06-19,June,2024,Electronics,Wireless Earbuds,4,1316.0,5264.0,2600,2664.0,West
+ORD2486,2024-06-19,June,2024,Sports & Fitness,Yoga Mat,5,834.0,4170.0,1250,2920.0,Central
+ORD1463,2024-06-20,June,2024,Beauty & Health,Vitamin C Tablets,3,336.0,1008.0,300,708.0,Central
+ORD1548,2024-06-20,June,2024,Beauty & Health,Lip Balm,3,149.0,447.0,120,327.0,Central
+ORD2026,2024-06-20,June,2024,Beauty & Health,Hair Serum,1,520.0,520.0,160,360.0,Central
+ORD1614,2024-06-22,June,2024,Sports & Fitness,Gym Gloves,1,415.0,415.0,110,305.0,West
+ORD2126,2024-06-22,June,2024,Electronics,USB-C Cable,1,205.0,205.0,60,145.0,West
+ORD2332,2024-06-22,June,2024,Beauty & Health,Moisturizer,5,383.0,1915.0,600,1315.0,West
+ORD1164,2024-06-23,June,2024,Sports & Fitness,Protein Shaker,3,360.0,1080.0,300,780.0,East
+ORD1719,2024-06-23,June,2024,Home & Kitchen,Desk Lamp,3,803.0,2409.0,900,1509.0,North
+ORD2035,2024-06-23,June,2024,Beauty & Health,Vitamin C Tablets,3,342.0,1026.0,300,726.0,South
+ORD2224,2024-06-23,June,2024,Fashion,Cotton T-Shirt,5,388.0,1940.0,600,1340.0,South
+ORD1663,2024-06-24,June,2024,Fashion,Sunglasses,4,607.0,2428.0,720,1708.0,East
+ORD1700,2024-06-24,June,2024,Fashion,Cotton T-Shirt,4,395.0,1580.0,480,1100.0,East
+ORD1957,2024-06-24,June,2024,Electronics,USB-C Cable,1,198.0,198.0,60,138.0,East
+ORD2500,2024-06-24,June,2024,Home & Kitchen,Desk Lamp,5,837.0,4185.0,1500,2685.0,Central
+ORD1236,2024-06-25,June,2024,Beauty & Health,Face Wash,5,244.0,1220.0,400,820.0,West
+ORD1884,2024-06-25,June,2024,Home & Kitchen,Wall Clock,4,601.0,2404.0,800,1604.0,West
+ORD2066,2024-06-25,June,2024,Electronics,Bluetooth Speaker,5,1425.0,7125.0,3500,3625.0,West
+ORD2204,2024-06-25,June,2024,Home & Kitchen,Desk Lamp,5,837.0,4185.0,1500,2685.0,North
+ORD2383,2024-06-25,June,2024,Beauty & Health,Moisturizer,5,399.0,1995.0,600,1395.0,East
+ORD1113,2024-06-26,June,2024,Sports & Fitness,Skipping Rope,1,253.0,253.0,60,193.0,Central
+ORD1323,2024-06-26,June,2024,Sports & Fitness,Protein Shaker,3,361.0,1083.0,300,783.0,South
+ORD1364,2024-06-26,June,2024,Beauty & Health,Lip Balm,2,153.0,306.0,80,226.0,South
+ORD1446,2024-06-26,June,2024,Electronics,Wireless Earbuds,1,1291.0,1291.0,650,641.0,East
+ORD1546,2024-06-26,June,2024,Sports & Fitness,Gym Gloves,3,410.0,1230.0,330,900.0,South
+ORD1708,2024-06-26,June,2024,Beauty & Health,Moisturizer,5,413.0,2065.0,600,1465.0,Central
+ORD1054,2024-06-27,June,2024,Electronics,Phone Case,2,295.0,590.0,160,430.0,West
+ORD2267,2024-06-27,June,2024,Sports & Fitness,Resistance Bands,3,512.0,1536.0,450,1086.0,West
+ORD1071,2024-06-28,June,2024,Sports & Fitness,Skipping Rope,5,253.0,1265.0,300,965.0,East
+ORD1264,2024-06-28,June,2024,Home & Kitchen,Wall Clock,1,577.0,577.0,200,377.0,East
+ORD1954,2024-06-28,June,2024,Sports & Fitness,Skipping Rope,4,252.0,1008.0,240,768.0,North
+ORD2043,2024-06-28,June,2024,Sports & Fitness,Protein Shaker,3,341.0,1023.0,300,723.0,Central
+ORD1126,2024-06-29,June,2024,Beauty & Health,Lip Balm,2,146.0,292.0,80,212.0,North
+ORD1225,2024-06-29,June,2024,Electronics,Bluetooth Speaker,2,1500.0,3000.0,1400,1600.0,West
+ORD1733,2024-06-29,June,2024,Sports & Fitness,Skipping Rope,4,251.0,1004.0,240,764.0,Central
+ORD2467,2024-06-29,June,2024,Beauty & Health,Vitamin C Tablets,2,344.0,688.0,200,488.0,North
+ORD1224,2024-06-30,June,2024,Beauty & Health,Face Wash,5,261.0,1305.0,400,905.0,East
+ORD1455,2024-06-30,June,2024,Sports & Fitness,Resistance Bands,3,504.0,1512.0,450,1062.0,West
+ORD1582,2024-06-30,June,2024,Fashion,Denim Jeans,4,977.0,3908.0,1400,2508.0,South
+ORD2241,2024-06-30,June,2024,Beauty & Health,Hair Serum,2,485.0,970.0,320,650.0,West
+ORD2415,2024-06-30,June,2024,Electronics,Wireless Earbuds,1,1332.0,1332.0,650,682.0,West
+ORD1602,2024-07-01,July,2024,Fashion,Sunglasses,4,618.0,2472.0,720,1752.0,East
+ORD1846,2024-07-01,July,2024,Fashion,Cotton T-Shirt,1,384.0,384.0,120,264.0,West
+ORD2199,2024-07-01,July,2024,Electronics,USB-C Cable,2,190.0,380.0,120,260.0,Central
+ORD1007,2024-07-02,July,2024,Home & Kitchen,Notebook Set,1,292.0,292.0,80,212.0,West
+ORD1177,2024-07-02,July,2024,Home & Kitchen,Wall Clock,5,578.0,2890.0,1000,1890.0,West
+ORD1590,2024-07-02,July,2024,Sports & Fitness,Yoga Mat,1,837.0,837.0,250,587.0,South
+ORD1692,2024-07-02,July,2024,Beauty & Health,Lip Balm,5,144.0,720.0,200,520.0,West
+ORD1699,2024-07-02,July,2024,Beauty & Health,Vitamin C Tablets,1,341.0,341.0,100,241.0,East
+ORD1748,2024-07-02,July,2024,Electronics,USB-C Cable,2,200.0,400.0,120,280.0,Central
+ORD1289,2024-07-03,July,2024,Electronics,Bluetooth Speaker,5,1506.0,7530.0,3500,4030.0,Central
+ORD1460,2024-07-03,July,2024,Home & Kitchen,Coffee Mug,4,255.0,1020.0,280,740.0,Central
+ORD1619,2024-07-03,July,2024,Electronics,Portable Charger,5,862.0,4310.0,2000,2310.0,West
+ORD1751,2024-07-03,July,2024,Home & Kitchen,Coffee Mug,5,260.0,1300.0,350,950.0,Central
+ORD1864,2024-07-03,July,2024,Sports & Fitness,Gym Gloves,3,416.0,1248.0,330,918.0,East
+ORD1009,2024-07-04,July,2024,Sports & Fitness,Yoga Mat,1,815.0,815.0,250,565.0,South
+ORD1027,2024-07-04,July,2024,Home & Kitchen,Coffee Mug,5,238.0,1190.0,350,840.0,North
+ORD2215,2024-07-04,July,2024,Sports & Fitness,Skipping Rope,3,251.0,753.0,180,573.0,West
+ORD2396,2024-07-04,July,2024,Fashion,Sneakers,5,1836.0,9180.0,4000,5180.0,West
+ORD2479,2024-07-04,July,2024,Sports & Fitness,Resistance Bands,2,518.0,1036.0,300,736.0,North
+ORD1076,2024-07-05,July,2024,Beauty & Health,Face Wash,3,260.0,780.0,240,540.0,Central
+ORD1915,2024-07-05,July,2024,Sports & Fitness,Yoga Mat,1,785.0,785.0,250,535.0,Central
+ORD2051,2024-07-05,July,2024,Beauty & Health,Moisturizer,3,407.0,1221.0,360,861.0,East
+ORD1190,2024-07-06,July,2024,Sports & Fitness,Gym Gloves,2,415.0,830.0,220,610.0,East
+ORD1488,2024-07-06,July,2024,Home & Kitchen,Coffee Mug,3,248.0,744.0,210,534.0,West
+ORD2173,2024-07-06,July,2024,Fashion,Sunglasses,5,611.0,3055.0,900,2155.0,South
+ORD2240,2024-07-06,July,2024,Sports & Fitness,Yoga Mat,1,794.0,794.0,250,544.0,South
+ORD1194,2024-07-07,July,2024,Home & Kitchen,Notebook Set,3,295.0,885.0,240,645.0,North
+ORD1317,2024-07-07,July,2024,Beauty & Health,Vitamin C Tablets,1,336.0,336.0,100,236.0,North
+ORD1558,2024-07-07,July,2024,Fashion,Sneakers,3,1810.0,5430.0,2400,3030.0,Central
+ORD2179,2024-07-07,July,2024,Electronics,Phone Case,4,311.0,1244.0,320,924.0,North
+ORD2320,2024-07-07,July,2024,Fashion,Sunglasses,5,576.0,2880.0,900,1980.0,West
+ORD1623,2024-07-08,July,2024,Beauty & Health,Lip Balm,1,144.0,144.0,40,104.0,East
+ORD2168,2024-07-08,July,2024,Beauty & Health,Face Wash,1,258.0,258.0,80,178.0,West
+ORD2422,2024-07-08,July,2024,Sports & Fitness,Skipping Rope,5,251.0,1255.0,300,955.0,West
+ORD1276,2024-07-09,July,2024,Sports & Fitness,Resistance Bands,5,510.0,2550.0,750,1800.0,North
+ORD1308,2024-07-09,July,2024,Beauty & Health,Face Wash,5,251.0,1255.0,400,855.0,East
+ORD1547,2024-07-09,July,2024,Fashion,Sneakers,1,1841.0,1841.0,800,1041.0,North
+ORD2032,2024-07-09,July,2024,Beauty & Health,Lip Balm,3,145.0,435.0,120,315.0,South
+ORD2188,2024-07-09,July,2024,Home & Kitchen,Water Bottle,3,337.0,1011.0,300,711.0,West
+ORD2400,2024-07-09,July,2024,Beauty & Health,Lip Balm,2,151.0,302.0,80,222.0,South
+ORD1345,2024-07-10,July,2024,Home & Kitchen,Notebook Set,2,312.0,624.0,160,464.0,South
+ORD1477,2024-07-10,July,2024,Beauty & Health,Hair Serum,5,513.0,2565.0,800,1765.0,Central
+ORD1677,2024-07-10,July,2024,Electronics,USB-C Cable,5,204.0,1020.0,300,720.0,South
+ORD1358,2024-07-11,July,2024,Home & Kitchen,Coffee Mug,5,248.0,1240.0,350,890.0,East
+ORD1449,2024-07-11,July,2024,Beauty & Health,Moisturizer,4,406.0,1624.0,480,1144.0,North
+ORD1960,2024-07-11,July,2024,Sports & Fitness,Gym Gloves,2,381.0,762.0,220,542.0,North
+ORD2152,2024-07-11,July,2024,Fashion,Cotton T-Shirt,4,398.0,1592.0,480,1112.0,North
+ORD1397,2024-07-12,July,2024,Beauty & Health,Face Wash,5,254.0,1270.0,400,870.0,South
+ORD1808,2024-07-12,July,2024,Beauty & Health,Moisturizer,2,383.0,766.0,240,526.0,Central
+ORD1425,2024-07-13,July,2024,Sports & Fitness,Yoga Mat,3,799.0,2397.0,750,1647.0,East
+ORD2096,2024-07-13,July,2024,Beauty & Health,Hair Serum,5,487.0,2435.0,800,1635.0,West
+ORD1527,2024-07-14,July,2024,Fashion,Denim Jeans,5,956.0,4780.0,1750,3030.0,North
+ORD1754,2024-07-14,July,2024,Electronics,Portable Charger,3,877.0,2631.0,1200,1431.0,North
+ORD1868,2024-07-14,July,2024,Sports & Fitness,Protein Shaker,2,348.0,696.0,200,496.0,South
+ORD2330,2024-07-14,July,2024,Home & Kitchen,Wall Clock,2,609.0,1218.0,400,818.0,Central
+ORD2444,2024-07-14,July,2024,Home & Kitchen,Water Bottle,1,336.0,336.0,100,236.0,Central
+ORD1168,2024-07-15,July,2024,Fashion,Casual Watch,4,1240.0,4960.0,2000,2960.0,West
+ORD1183,2024-07-15,July,2024,Beauty & Health,Face Wash,5,242.0,1210.0,400,810.0,East
+ORD1307,2024-07-15,July,2024,Sports & Fitness,Resistance Bands,4,504.0,2016.0,600,1416.0,East
+ORD1380,2024-07-15,July,2024,Fashion,Casual Watch,3,1332.0,3996.0,1500,2496.0,East
+ORD2046,2024-07-15,July,2024,Electronics,Wireless Earbuds,2,1289.0,2578.0,1300,1278.0,Central
+ORD2057,2024-07-15,July,2024,Electronics,USB-C Cable,5,193.0,965.0,300,665.0,West
+ORD2076,2024-07-15,July,2024,Home & Kitchen,Coffee Mug,5,241.0,1205.0,350,855.0,North
+ORD2327,2024-07-15,July,2024,Beauty & Health,Vitamin C Tablets,1,340.0,340.0,100,240.0,Central
+ORD1169,2024-07-16,July,2024,Fashion,Casual Watch,2,1359.0,2718.0,1000,1718.0,Central
+ORD1299,2024-07-16,July,2024,Home & Kitchen,Coffee Mug,4,249.0,996.0,280,716.0,East
+ORD1535,2024-07-16,July,2024,Electronics,Phone Case,5,299.0,1495.0,400,1095.0,North
+ORD1701,2024-07-16,July,2024,Beauty & Health,Hair Serum,2,506.0,1012.0,320,692.0,North
+ORD1926,2024-07-16,July,2024,Fashion,Denim Jeans,2,1002.0,2004.0,700,1304.0,Central
+ORD1199,2024-07-17,July,2024,Beauty & Health,Lip Balm,5,152.0,760.0,200,560.0,West
+ORD1261,2024-07-17,July,2024,Beauty & Health,Lip Balm,1,152.0,152.0,40,112.0,East
+ORD1588,2024-07-17,July,2024,Home & Kitchen,Coffee Mug,5,237.0,1185.0,350,835.0,South
+ORD1633,2024-07-17,July,2024,Sports & Fitness,Skipping Rope,3,250.0,750.0,180,570.0,Central
+ORD1662,2024-07-17,July,2024,Electronics,Bluetooth Speaker,5,1530.0,7650.0,3500,4150.0,South
+ORD1727,2024-07-17,July,2024,Sports & Fitness,Gym Gloves,5,414.0,2070.0,550,1520.0,West
+ORD1740,2024-07-17,July,2024,Beauty & Health,Lip Balm,1,156.0,156.0,40,116.0,North
+ORD1916,2024-07-17,July,2024,Fashion,Sunglasses,5,610.0,3050.0,900,2150.0,South
+ORD1982,2024-07-17,July,2024,Beauty & Health,Hair Serum,2,481.0,962.0,320,642.0,South
+ORD1990,2024-07-17,July,2024,Sports & Fitness,Resistance Bands,4,484.0,1936.0,600,1336.0,West
+ORD2037,2024-07-17,July,2024,Sports & Fitness,Resistance Bands,1,474.0,474.0,150,324.0,Central
+ORD2154,2024-07-17,July,2024,Home & Kitchen,Coffee Mug,2,248.0,496.0,140,356.0,East
+ORD2305,2024-07-17,July,2024,Electronics,Portable Charger,3,937.0,2811.0,1200,1611.0,East
+ORD2351,2024-07-17,July,2024,Beauty & Health,Lip Balm,2,151.0,302.0,80,222.0,North
+ORD1098,2024-07-18,July,2024,Beauty & Health,Vitamin C Tablets,5,358.0,1790.0,500,1290.0,Central
+ORD1100,2024-07-18,July,2024,Home & Kitchen,Wall Clock,4,612.0,2448.0,800,1648.0,South
+ORD1534,2024-07-19,July,2024,Home & Kitchen,Water Bottle,2,359.0,718.0,200,518.0,West
+ORD1604,2024-07-19,July,2024,Sports & Fitness,Resistance Bands,3,483.0,1449.0,450,999.0,Central
+ORD1767,2024-07-19,July,2024,Sports & Fitness,Protein Shaker,2,365.0,730.0,200,530.0,East
+ORD1349,2024-07-20,July,2024,Sports & Fitness,Protein Shaker,5,352.0,1760.0,500,1260.0,Central
+ORD1618,2024-07-20,July,2024,Sports & Fitness,Gym Gloves,2,413.0,826.0,220,606.0,North
+ORD1947,2024-07-20,July,2024,Fashion,Denim Jeans,4,983.0,3932.0,1400,2532.0,Central
+ORD1994,2024-07-20,July,2024,Beauty & Health,Lip Balm,2,148.0,296.0,80,216.0,West
+ORD2111,2024-07-20,July,2024,Fashion,Casual Watch,5,1248.0,6240.0,2500,3740.0,West
+ORD1363,2024-07-21,July,2024,Home & Kitchen,Coffee Mug,3,244.0,732.0,210,522.0,North
+ORD1393,2024-07-21,July,2024,Home & Kitchen,Water Bottle,5,358.0,1790.0,500,1290.0,North
+ORD1462,2024-07-21,July,2024,Home & Kitchen,Notebook Set,3,295.0,885.0,240,645.0,West
+ORD1485,2024-07-21,July,2024,Electronics,Bluetooth Speaker,4,1556.0,6224.0,2800,3424.0,Central
+ORD1522,2024-07-21,July,2024,Home & Kitchen,Coffee Mug,1,247.0,247.0,70,177.0,North
+ORD1581,2024-07-21,July,2024,Beauty & Health,Face Wash,4,246.0,984.0,320,664.0,South
+ORD1766,2024-07-21,July,2024,Electronics,Portable Charger,2,868.0,1736.0,800,936.0,South
+ORD1887,2024-07-21,July,2024,Fashion,Denim Jeans,4,1020.0,4080.0,1400,2680.0,West
+ORD1950,2024-07-21,July,2024,Sports & Fitness,Yoga Mat,5,804.0,4020.0,1250,2770.0,South
+ORD1111,2024-07-22,July,2024,Fashion,Cotton T-Shirt,2,403.0,806.0,240,566.0,North
+ORD1309,2024-07-22,July,2024,Home & Kitchen,Desk Lamp,1,779.0,779.0,300,479.0,North
+ORD1372,2024-07-22,July,2024,Beauty & Health,Moisturizer,3,416.0,1248.0,360,888.0,North
+ORD1031,2024-07-23,July,2024,Home & Kitchen,Wall Clock,4,623.0,2492.0,800,1692.0,North
+ORD1086,2024-07-23,July,2024,Fashion,Denim Jeans,1,1015.0,1015.0,350,665.0,North
+ORD1015,2024-07-24,July,2024,Home & Kitchen,Water Bottle,5,339.0,1695.0,500,1195.0,East
+ORD1043,2024-07-24,July,2024,Electronics,Phone Case,4,295.0,1180.0,320,860.0,East
+ORD1342,2024-07-24,July,2024,Electronics,Bluetooth Speaker,3,1508.0,4524.0,2100,2424.0,Central
+ORD2312,2024-07-24,July,2024,Fashion,Sneakers,1,1765.0,1765.0,800,965.0,North
+ORD2319,2024-07-24,July,2024,Sports & Fitness,Skipping Rope,2,251.0,502.0,120,382.0,North
+ORD1078,2024-07-25,July,2024,Home & Kitchen,Notebook Set,4,288.0,1152.0,320,832.0,West
+ORD1155,2024-07-25,July,2024,Sports & Fitness,Resistance Bands,5,507.0,2535.0,750,1785.0,West
+ORD1436,2024-07-26,July,2024,Beauty & Health,Vitamin C Tablets,2,340.0,680.0,200,480.0,East
+ORD1796,2024-07-26,July,2024,Home & Kitchen,Desk Lamp,4,798.0,3192.0,1200,1992.0,Central
+ORD2070,2024-07-26,July,2024,Beauty & Health,Hair Serum,2,501.0,1002.0,320,682.0,West
+ORD2194,2024-07-26,July,2024,Beauty & Health,Moisturizer,3,417.0,1251.0,360,891.0,South
+ORD1201,2024-07-27,July,2024,Home & Kitchen,Water Bottle,2,356.0,712.0,200,512.0,West
+ORD1762,2024-07-27,July,2024,Beauty & Health,Hair Serum,4,505.0,2020.0,640,1380.0,East
+ORD2478,2024-07-27,July,2024,Home & Kitchen,Water Bottle,4,355.0,1420.0,400,1020.0,West
+ORD1818,2024-07-28,July,2024,Home & Kitchen,Water Bottle,5,337.0,1685.0,500,1185.0,East
+ORD2402,2024-07-28,July,2024,Beauty & Health,Vitamin C Tablets,3,359.0,1077.0,300,777.0,North
+ORD1356,2024-07-29,July,2024,Sports & Fitness,Gym Gloves,1,416.0,416.0,110,306.0,South
+ORD1510,2024-07-29,July,2024,Electronics,USB-C Cable,2,206.0,412.0,120,292.0,South
+ORD1529,2024-07-29,July,2024,Sports & Fitness,Skipping Rope,1,258.0,258.0,60,198.0,North
+ORD1584,2024-07-29,July,2024,Sports & Fitness,Skipping Rope,3,238.0,714.0,180,534.0,West
+ORD1637,2024-07-29,July,2024,Home & Kitchen,Wall Clock,5,608.0,3040.0,1000,2040.0,Central
+ORD1156,2024-07-30,July,2024,Electronics,Phone Case,5,300.0,1500.0,400,1100.0,West
+ORD1429,2024-07-30,July,2024,Fashion,Denim Jeans,2,956.0,1912.0,700,1212.0,North
+ORD1626,2024-07-30,July,2024,Sports & Fitness,Yoga Mat,4,803.0,3212.0,1000,2212.0,Central
+ORD1771,2024-07-30,July,2024,Sports & Fitness,Yoga Mat,2,772.0,1544.0,500,1044.0,Central
+ORD1890,2024-07-30,July,2024,Fashion,Cotton T-Shirt,3,386.0,1158.0,360,798.0,North
+ORD2056,2024-07-30,July,2024,Fashion,Sunglasses,2,584.0,1168.0,360,808.0,West
+ORD2448,2024-07-30,July,2024,Home & Kitchen,Desk Lamp,1,789.0,789.0,300,489.0,North
+ORD1220,2024-07-31,July,2024,Electronics,USB-C Cable,3,198.0,594.0,180,414.0,East
+ORD1279,2024-07-31,July,2024,Electronics,Portable Charger,2,899.0,1798.0,800,998.0,West
+ORD1635,2024-07-31,July,2024,Fashion,Denim Jeans,5,1006.0,5030.0,1750,3280.0,North
+ORD2136,2024-07-31,July,2024,Fashion,Sneakers,4,1809.0,7236.0,3200,4036.0,South
+ORD2209,2024-07-31,July,2024,Fashion,Sunglasses,5,597.0,2985.0,900,2085.0,South
+ORD2316,2024-07-31,July,2024,Home & Kitchen,Coffee Mug,4,246.0,984.0,280,704.0,Central
+ORD1413,2024-08-01,August,2024,Sports & Fitness,Gym Gloves,2,384.0,768.0,220,548.0,East
+ORD1643,2024-08-01,August,2024,Sports & Fitness,Resistance Bands,2,483.0,966.0,300,666.0,West
+ORD1972,2024-08-01,August,2024,Fashion,Sunglasses,3,578.0,1734.0,540,1194.0,Central
+ORD2424,2024-08-01,August,2024,Fashion,Denim Jeans,4,1000.0,4000.0,1400,2600.0,West
+ORD1232,2024-08-02,August,2024,Beauty & Health,Lip Balm,3,144.0,432.0,120,312.0,East
+ORD1563,2024-08-02,August,2024,Beauty & Health,Face Wash,2,261.0,522.0,160,362.0,East
+ORD1627,2024-08-02,August,2024,Sports & Fitness,Skipping Rope,2,251.0,502.0,120,382.0,West
+ORD1728,2024-08-02,August,2024,Sports & Fitness,Yoga Mat,3,781.0,2343.0,750,1593.0,East
+ORD2000,2024-08-02,August,2024,Home & Kitchen,Desk Lamp,4,817.0,3268.0,1200,2068.0,East
+ORD2219,2024-08-02,August,2024,Home & Kitchen,Water Bottle,5,342.0,1710.0,500,1210.0,North
+ORD1667,2024-08-03,August,2024,Home & Kitchen,Desk Lamp,3,780.0,2340.0,900,1440.0,West
+ORD1895,2024-08-03,August,2024,Home & Kitchen,Wall Clock,4,629.0,2516.0,800,1716.0,North
+ORD1030,2024-08-04,August,2024,Fashion,Sunglasses,2,614.0,1228.0,360,868.0,East
+ORD1284,2024-08-04,August,2024,Electronics,USB-C Cable,1,194.0,194.0,60,134.0,North
+ORD1494,2024-08-04,August,2024,Fashion,Casual Watch,2,1317.0,2634.0,1000,1634.0,Central
+ORD1525,2024-08-04,August,2024,Fashion,Casual Watch,4,1243.0,4972.0,2000,2972.0,North
+ORD1540,2024-08-04,August,2024,Beauty & Health,Face Wash,5,252.0,1260.0,400,860.0,Central
+ORD1655,2024-08-04,August,2024,Beauty & Health,Lip Balm,2,148.0,296.0,80,216.0,West
+ORD2298,2024-08-04,August,2024,Fashion,Denim Jeans,2,960.0,1920.0,700,1220.0,East
+ORD2355,2024-08-04,August,2024,Electronics,Portable Charger,5,927.0,4635.0,2000,2635.0,South
+ORD1087,2024-08-05,August,2024,Fashion,Denim Jeans,5,1029.0,5145.0,1750,3395.0,West
+ORD2206,2024-08-05,August,2024,Beauty & Health,Moisturizer,5,412.0,2060.0,600,1460.0,North
+ORD2012,2024-08-06,August,2024,Sports & Fitness,Resistance Bands,2,489.0,978.0,300,678.0,North
+ORD2280,2024-08-06,August,2024,Fashion,Sneakers,3,1852.0,5556.0,2400,3156.0,Central
+ORD1138,2024-08-07,August,2024,Home & Kitchen,Notebook Set,5,303.0,1515.0,400,1115.0,North
+ORD1486,2024-08-07,August,2024,Beauty & Health,Face Wash,2,254.0,508.0,160,348.0,East
+ORD1516,2024-08-07,August,2024,Fashion,Casual Watch,3,1269.0,3807.0,1500,2307.0,East
+ORD1676,2024-08-07,August,2024,Beauty & Health,Hair Serum,5,474.0,2370.0,800,1570.0,South
+ORD1813,2024-08-07,August,2024,Fashion,Casual Watch,4,1337.0,5348.0,2000,3348.0,East
+ORD1475,2024-08-08,August,2024,Electronics,Wireless Earbuds,2,1247.0,2494.0,1300,1194.0,Central
+ORD1975,2024-08-08,August,2024,Fashion,Sunglasses,3,624.0,1872.0,540,1332.0,North
+ORD2262,2024-08-08,August,2024,Fashion,Sneakers,4,1838.0,7352.0,3200,4152.0,North
+ORD1115,2024-08-09,August,2024,Home & Kitchen,Wall Clock,4,611.0,2444.0,800,1644.0,South
+ORD1148,2024-08-09,August,2024,Home & Kitchen,Notebook Set,1,292.0,292.0,80,212.0,South
+ORD1222,2024-08-09,August,2024,Electronics,USB-C Cable,5,205.0,1025.0,300,725.0,North
+ORD1304,2024-08-10,August,2024,Home & Kitchen,Water Bottle,4,334.0,1336.0,400,936.0,East
+ORD1881,2024-08-10,August,2024,Sports & Fitness,Gym Gloves,3,391.0,1173.0,330,843.0,West
+ORD1949,2024-08-10,August,2024,Fashion,Denim Jeans,2,997.0,1994.0,700,1294.0,West
+ORD2058,2024-08-10,August,2024,Sports & Fitness,Protein Shaker,2,351.0,702.0,200,502.0,South
+ORD2356,2024-08-10,August,2024,Beauty & Health,Face Wash,3,238.0,714.0,240,474.0,West
+ORD1245,2024-08-11,August,2024,Electronics,Phone Case,4,297.0,1188.0,320,868.0,Central
+ORD1278,2024-08-11,August,2024,Electronics,Phone Case,3,308.0,924.0,240,684.0,North
+ORD1601,2024-08-11,August,2024,Beauty & Health,Lip Balm,5,144.0,720.0,200,520.0,Central
+ORD2117,2024-08-11,August,2024,Beauty & Health,Face Wash,1,250.0,250.0,80,170.0,West
+ORD2153,2024-08-11,August,2024,Fashion,Denim Jeans,4,1042.0,4168.0,1400,2768.0,South
+ORD2276,2024-08-11,August,2024,Fashion,Casual Watch,1,1317.0,1317.0,500,817.0,Central
+ORD2372,2024-08-11,August,2024,Sports & Fitness,Yoga Mat,4,766.0,3064.0,1000,2064.0,South
+ORD2443,2024-08-11,August,2024,Fashion,Casual Watch,5,1237.0,6185.0,2500,3685.0,East
+ORD1146,2024-08-12,August,2024,Electronics,Portable Charger,4,916.0,3664.0,1600,2064.0,East
+ORD1271,2024-08-12,August,2024,Electronics,Portable Charger,2,887.0,1774.0,800,974.0,West
+ORD2487,2024-08-12,August,2024,Electronics,Portable Charger,1,906.0,906.0,400,506.0,North
+ORD1188,2024-08-13,August,2024,Electronics,Bluetooth Speaker,2,1479.0,2958.0,1400,1558.0,North
+ORD1331,2024-08-13,August,2024,Beauty & Health,Hair Serum,3,497.0,1491.0,480,1011.0,Central
+ORD1624,2024-08-13,August,2024,Beauty & Health,Lip Balm,3,145.0,435.0,120,315.0,Central
+ORD1705,2024-08-13,August,2024,Electronics,Wireless Earbuds,3,1268.0,3804.0,1950,1854.0,North
+ORD2041,2024-08-13,August,2024,Electronics,USB-C Cable,3,192.0,576.0,180,396.0,North
+ORD2299,2024-08-13,August,2024,Beauty & Health,Lip Balm,1,154.0,154.0,40,114.0,West
+ORD1090,2024-08-14,August,2024,Sports & Fitness,Gym Gloves,5,396.0,1980.0,550,1430.0,West
+ORD2228,2024-08-14,August,2024,Sports & Fitness,Gym Gloves,3,410.0,1230.0,330,900.0,South
+ORD2339,2024-08-14,August,2024,Home & Kitchen,Notebook Set,4,299.0,1196.0,320,876.0,North
+ORD2403,2024-08-14,August,2024,Fashion,Cotton T-Shirt,5,408.0,2040.0,600,1440.0,North
+ORD1202,2024-08-15,August,2024,Fashion,Sneakers,3,1727.0,5181.0,2400,2781.0,Central
+ORD1687,2024-08-15,August,2024,Beauty & Health,Face Wash,4,250.0,1000.0,320,680.0,South
+ORD1872,2024-08-15,August,2024,Home & Kitchen,Notebook Set,4,300.0,1200.0,320,880.0,West
+ORD2045,2024-08-15,August,2024,Electronics,Phone Case,1,285.0,285.0,80,205.0,North
+ORD2497,2024-08-15,August,2024,Fashion,Denim Jeans,1,963.0,963.0,350,613.0,North
+ORD1823,2024-08-16,August,2024,Fashion,Cotton T-Shirt,4,388.0,1552.0,480,1072.0,East
+ORD2201,2024-08-16,August,2024,Electronics,Bluetooth Speaker,4,1483.0,5932.0,2800,3132.0,East
+ORD2193,2024-08-17,August,2024,Sports & Fitness,Yoga Mat,1,802.0,802.0,250,552.0,North
+ORD1857,2024-08-18,August,2024,Fashion,Sunglasses,5,577.0,2885.0,900,1985.0,South
+ORD1913,2024-08-18,August,2024,Home & Kitchen,Desk Lamp,4,802.0,3208.0,1200,2008.0,North
+ORD2260,2024-08-18,August,2024,Home & Kitchen,Wall Clock,1,596.0,596.0,200,396.0,North
+ORD1219,2024-08-19,August,2024,Fashion,Casual Watch,4,1278.0,5112.0,2000,3112.0,West
+ORD1729,2024-08-19,August,2024,Fashion,Denim Jeans,5,990.0,4950.0,1750,3200.0,East
+ORD2164,2024-08-19,August,2024,Beauty & Health,Moisturizer,1,382.0,382.0,120,262.0,West
+ORD2177,2024-08-19,August,2024,Beauty & Health,Vitamin C Tablets,1,350.0,350.0,100,250.0,West
+ORD2433,2024-08-19,August,2024,Home & Kitchen,Wall Clock,5,598.0,2990.0,1000,1990.0,South
+ORD2456,2024-08-19,August,2024,Electronics,Wireless Earbuds,5,1340.0,6700.0,3250,3450.0,East
+ORD1011,2024-08-20,August,2024,Home & Kitchen,Coffee Mug,2,246.0,492.0,140,352.0,East
+ORD1044,2024-08-20,August,2024,Home & Kitchen,Wall Clock,5,611.0,3055.0,1000,2055.0,West
+ORD1204,2024-08-20,August,2024,Electronics,Phone Case,5,303.0,1515.0,400,1115.0,North
+ORD1374,2024-08-20,August,2024,Sports & Fitness,Gym Gloves,2,399.0,798.0,220,578.0,Central
+ORD1385,2024-08-20,August,2024,Sports & Fitness,Protein Shaker,5,346.0,1730.0,500,1230.0,West
+ORD1514,2024-08-20,August,2024,Beauty & Health,Lip Balm,1,150.0,150.0,40,110.0,West
+ORD1717,2024-08-20,August,2024,Home & Kitchen,Notebook Set,5,307.0,1535.0,400,1135.0,West
+ORD2004,2024-08-20,August,2024,Beauty & Health,Hair Serum,5,478.0,2390.0,800,1590.0,North
+ORD2052,2024-08-20,August,2024,Beauty & Health,Face Wash,1,238.0,238.0,80,158.0,East
+ORD2321,2024-08-20,August,2024,Beauty & Health,Face Wash,2,242.0,484.0,160,324.0,South
+ORD1085,2024-08-21,August,2024,Beauty & Health,Vitamin C Tablets,4,338.0,1352.0,400,952.0,West
+ORD1167,2024-08-21,August,2024,Home & Kitchen,Coffee Mug,2,261.0,522.0,140,382.0,Central
+ORD1052,2024-08-22,August,2024,Home & Kitchen,Water Bottle,5,332.0,1660.0,500,1160.0,Central
+ORD1376,2024-08-22,August,2024,Home & Kitchen,Coffee Mug,3,237.0,711.0,210,501.0,East
+ORD1634,2024-08-22,August,2024,Electronics,Bluetooth Speaker,4,1512.0,6048.0,2800,3248.0,North
+ORD1722,2024-08-22,August,2024,Fashion,Sneakers,4,1728.0,6912.0,3200,3712.0,North
+ORD1401,2024-08-23,August,2024,Home & Kitchen,Coffee Mug,1,243.0,243.0,70,173.0,North
+ORD1760,2024-08-23,August,2024,Home & Kitchen,Water Bottle,1,335.0,335.0,100,235.0,South
+ORD1180,2024-08-24,August,2024,Home & Kitchen,Wall Clock,1,584.0,584.0,200,384.0,West
+ORD1256,2024-08-24,August,2024,Sports & Fitness,Gym Gloves,1,417.0,417.0,110,307.0,West
+ORD1274,2024-08-24,August,2024,Home & Kitchen,Wall Clock,4,599.0,2396.0,800,1596.0,South
+ORD1468,2024-08-24,August,2024,Fashion,Casual Watch,1,1338.0,1338.0,500,838.0,West
+ORD1484,2024-08-24,August,2024,Fashion,Casual Watch,2,1316.0,2632.0,1000,1632.0,West
+ORD1780,2024-08-24,August,2024,Beauty & Health,Lip Balm,4,153.0,612.0,160,452.0,Central
+ORD1400,2024-08-25,August,2024,Sports & Fitness,Skipping Rope,2,250.0,500.0,120,380.0,South
+ORD1117,2024-08-26,August,2024,Beauty & Health,Vitamin C Tablets,2,341.0,682.0,200,482.0,North
+ORD1334,2024-08-26,August,2024,Electronics,USB-C Cable,2,198.0,396.0,120,276.0,North
+ORD1375,2024-08-27,August,2024,Home & Kitchen,Coffee Mug,3,257.0,771.0,210,561.0,South
+ORD1152,2024-08-28,August,2024,Home & Kitchen,Wall Clock,1,589.0,589.0,200,389.0,South
+ORD1273,2024-08-28,August,2024,Fashion,Sneakers,5,1831.0,9155.0,4000,5155.0,West
+ORD1422,2024-08-28,August,2024,Home & Kitchen,Coffee Mug,4,246.0,984.0,280,704.0,North
+ORD1792,2024-08-28,August,2024,Beauty & Health,Face Wash,3,238.0,714.0,240,474.0,North
+ORD2050,2024-08-28,August,2024,Fashion,Denim Jeans,5,963.0,4815.0,1750,3065.0,East
+ORD1162,2024-08-29,August,2024,Fashion,Casual Watch,4,1306.0,5224.0,2000,3224.0,South
+ORD1785,2024-08-29,August,2024,Fashion,Sneakers,5,1780.0,8900.0,4000,4900.0,East
+ORD1855,2024-08-29,August,2024,Sports & Fitness,Protein Shaker,4,344.0,1376.0,400,976.0,West
+ORD1036,2024-08-30,August,2024,Fashion,Casual Watch,2,1339.0,2678.0,1000,1678.0,North
+ORD1082,2024-08-30,August,2024,Fashion,Cotton T-Shirt,5,390.0,1950.0,600,1350.0,East
+ORD1125,2024-08-30,August,2024,Sports & Fitness,Gym Gloves,5,393.0,1965.0,550,1415.0,East
+ORD1352,2024-08-30,August,2024,Home & Kitchen,Notebook Set,1,301.0,301.0,80,221.0,Central
+ORD1621,2024-08-30,August,2024,Electronics,USB-C Cable,4,205.0,820.0,240,580.0,West
+ORD1638,2024-08-30,August,2024,Electronics,Phone Case,2,292.0,584.0,160,424.0,Central
+ORD2025,2024-08-30,August,2024,Electronics,Phone Case,4,298.0,1192.0,320,872.0,Central
+ORD2160,2024-08-30,August,2024,Beauty & Health,Lip Balm,4,142.0,568.0,160,408.0,South
+ORD2183,2024-08-30,August,2024,Home & Kitchen,Wall Clock,1,596.0,596.0,200,396.0,East
+ORD2373,2024-08-30,August,2024,Beauty & Health,Face Wash,2,239.0,478.0,160,318.0,West
+ORD2399,2024-08-30,August,2024,Home & Kitchen,Desk Lamp,1,799.0,799.0,300,499.0,East
+ORD2426,2024-08-30,August,2024,Electronics,Phone Case,3,312.0,936.0,240,696.0,North
+ORD1752,2024-08-31,August,2024,Sports & Fitness,Resistance Bands,3,480.0,1440.0,450,990.0,West
+ORD1879,2024-08-31,August,2024,Beauty & Health,Vitamin C Tablets,5,364.0,1820.0,500,1320.0,West
+ORD2095,2024-08-31,August,2024,Home & Kitchen,Wall Clock,5,614.0,3070.0,1000,2070.0,South
+ORD2252,2024-08-31,August,2024,Sports & Fitness,Skipping Rope,5,261.0,1305.0,300,1005.0,East
+ORD2264,2024-08-31,August,2024,Sports & Fitness,Yoga Mat,4,800.0,3200.0,1000,2200.0,East
+ORD2302,2024-08-31,August,2024,Home & Kitchen,Desk Lamp,5,761.0,3805.0,1500,2305.0,North
+ORD1214,2024-09-02,September,2024,Beauty & Health,Hair Serum,4,508.0,2032.0,640,1392.0,West
+ORD1353,2024-09-02,September,2024,Fashion,Sunglasses,6,607.0,3642.0,1080,2562.0,West
+ORD2053,2024-09-02,September,2024,Beauty & Health,Moisturizer,3,390.0,1170.0,360,810.0,Central
+ORD2166,2024-09-02,September,2024,Home & Kitchen,Coffee Mug,6,254.0,1524.0,420,1104.0,Central
+ORD2484,2024-09-02,September,2024,Beauty & Health,Face Wash,3,251.0,753.0,240,513.0,East
+ORD1191,2024-09-03,September,2024,Home & Kitchen,Desk Lamp,4,823.0,3292.0,1200,2092.0,North
+ORD1800,2024-09-03,September,2024,Beauty & Health,Hair Serum,2,485.0,970.0,320,650.0,West
+ORD1166,2024-09-04,September,2024,Home & Kitchen,Desk Lamp,6,803.0,4818.0,1800,3018.0,West
+ORD1431,2024-09-04,September,2024,Beauty & Health,Face Wash,6,237.0,1422.0,480,942.0,West
+ORD2079,2024-09-04,September,2024,Home & Kitchen,Water Bottle,1,352.0,352.0,100,252.0,South
+ORD1644,2024-09-05,September,2024,Sports & Fitness,Protein Shaker,6,360.0,2160.0,600,1560.0,South
+ORD2091,2024-09-05,September,2024,Fashion,Sunglasses,3,621.0,1863.0,540,1323.0,North
+ORD2290,2024-09-05,September,2024,Sports & Fitness,Skipping Rope,1,247.0,247.0,60,187.0,South
+ORD2374,2024-09-05,September,2024,Beauty & Health,Face Wash,6,258.0,1548.0,480,1068.0,South
+ORD1120,2024-09-06,September,2024,Fashion,Sneakers,3,1853.0,5559.0,2400,3159.0,East
+ORD1790,2024-09-06,September,2024,Fashion,Cotton T-Shirt,2,390.0,780.0,240,540.0,North
+ORD1908,2024-09-06,September,2024,Fashion,Sneakers,3,1886.0,5658.0,2400,3258.0,West
+ORD2378,2024-09-06,September,2024,Beauty & Health,Hair Serum,6,500.0,3000.0,960,2040.0,West
+ORD1426,2024-09-07,September,2024,Beauty & Health,Hair Serum,3,482.0,1446.0,480,966.0,South
+ORD1682,2024-09-07,September,2024,Home & Kitchen,Coffee Mug,4,241.0,964.0,280,684.0,North
+ORD1985,2024-09-07,September,2024,Home & Kitchen,Wall Clock,4,622.0,2488.0,800,1688.0,West
+ORD2354,2024-09-07,September,2024,Beauty & Health,Hair Serum,6,498.0,2988.0,960,2028.0,Central
+ORD1849,2024-09-08,September,2024,Fashion,Sunglasses,2,586.0,1172.0,360,812.0,Central
+ORD2308,2024-09-08,September,2024,Beauty & Health,Hair Serum,3,520.0,1560.0,480,1080.0,West
+ORD2336,2024-09-08,September,2024,Fashion,Sunglasses,4,620.0,2480.0,720,1760.0,North
+ORD1198,2024-09-09,September,2024,Electronics,Wireless Earbuds,6,1265.0,7590.0,3900,3690.0,South
+ORD1595,2024-09-09,September,2024,Sports & Fitness,Protein Shaker,1,338.0,338.0,100,238.0,North
+ORD1610,2024-09-09,September,2024,Beauty & Health,Lip Balm,1,150.0,150.0,40,110.0,West
+ORD2257,2024-09-09,September,2024,Beauty & Health,Moisturizer,4,391.0,1564.0,480,1084.0,West
+ORD2471,2024-09-09,September,2024,Home & Kitchen,Water Bottle,6,341.0,2046.0,600,1446.0,South
+ORD2243,2024-09-10,September,2024,Home & Kitchen,Desk Lamp,1,804.0,804.0,300,504.0,North
+ORD2265,2024-09-10,September,2024,Sports & Fitness,Skipping Rope,3,252.0,756.0,180,576.0,East
+ORD2377,2024-09-10,September,2024,Sports & Fitness,Gym Gloves,3,408.0,1224.0,330,894.0,North
+ORD2275,2024-09-11,September,2024,Sports & Fitness,Protein Shaker,3,337.0,1011.0,300,711.0,East
+ORD1161,2024-09-12,September,2024,Home & Kitchen,Notebook Set,4,305.0,1220.0,320,900.0,West
+ORD1337,2024-09-12,September,2024,Sports & Fitness,Skipping Rope,3,249.0,747.0,180,567.0,West
+ORD1439,2024-09-12,September,2024,Beauty & Health,Lip Balm,1,150.0,150.0,40,110.0,Central
+ORD1550,2024-09-12,September,2024,Sports & Fitness,Yoga Mat,3,788.0,2364.0,750,1614.0,North
+ORD1860,2024-09-12,September,2024,Fashion,Sunglasses,3,601.0,1803.0,540,1263.0,West
+ORD2125,2024-09-12,September,2024,Sports & Fitness,Skipping Rope,1,261.0,261.0,60,201.0,North
+ORD2255,2024-09-12,September,2024,Electronics,Phone Case,3,295.0,885.0,240,645.0,South
+ORD1147,2024-09-13,September,2024,Sports & Fitness,Skipping Rope,6,247.0,1482.0,360,1122.0,North
+ORD1993,2024-09-13,September,2024,Electronics,Phone Case,6,307.0,1842.0,480,1362.0,South
+ORD2473,2024-09-13,September,2024,Beauty & Health,Moisturizer,6,401.0,2406.0,720,1686.0,Central
+ORD1047,2024-09-14,September,2024,Sports & Fitness,Yoga Mat,6,764.0,4584.0,1500,3084.0,North
+ORD1406,2024-09-14,September,2024,Home & Kitchen,Coffee Mug,6,257.0,1542.0,420,1122.0,East
+ORD1787,2024-09-14,September,2024,Electronics,Phone Case,6,309.0,1854.0,480,1374.0,South
+ORD1981,2024-09-14,September,2024,Sports & Fitness,Skipping Rope,3,254.0,762.0,180,582.0,South
+ORD1059,2024-09-15,September,2024,Beauty & Health,Lip Balm,1,155.0,155.0,40,115.0,North
+ORD1259,2024-09-15,September,2024,Fashion,Cotton T-Shirt,4,389.0,1556.0,480,1076.0,West
+ORD1684,2024-09-15,September,2024,Fashion,Cotton T-Shirt,1,394.0,394.0,120,274.0,West
+ORD1809,2024-09-15,September,2024,Beauty & Health,Moisturizer,2,403.0,806.0,240,566.0,West
+ORD2163,2024-09-15,September,2024,Electronics,Portable Charger,4,902.0,3608.0,1600,2008.0,North
+ORD2258,2024-09-15,September,2024,Home & Kitchen,Notebook Set,6,294.0,1764.0,480,1284.0,Central
+ORD2414,2024-09-15,September,2024,Electronics,Wireless Earbuds,3,1343.0,4029.0,1950,2079.0,Central
+ORD2450,2024-09-15,September,2024,Beauty & Health,Face Wash,3,243.0,729.0,240,489.0,West
+ORD1664,2024-09-16,September,2024,Home & Kitchen,Coffee Mug,6,257.0,1542.0,420,1122.0,South
+ORD2034,2024-09-16,September,2024,Electronics,Portable Charger,2,935.0,1870.0,800,1070.0,South
+ORD1019,2024-09-17,September,2024,Beauty & Health,Face Wash,1,255.0,255.0,80,175.0,South
+ORD1726,2024-09-17,September,2024,Fashion,Sunglasses,2,579.0,1158.0,360,798.0,North
+ORD1493,2024-09-18,September,2024,Beauty & Health,Hair Serum,6,504.0,3024.0,960,2064.0,West
+ORD1657,2024-09-18,September,2024,Home & Kitchen,Notebook Set,6,303.0,1818.0,480,1338.0,East
+ORD1690,2024-09-18,September,2024,Sports & Fitness,Resistance Bands,1,488.0,488.0,150,338.0,West
+ORD2459,2024-09-18,September,2024,Home & Kitchen,Water Bottle,6,337.0,2022.0,600,1422.0,Central
+ORD1305,2024-09-19,September,2024,Fashion,Cotton T-Shirt,6,385.0,2310.0,720,1590.0,West
+ORD1348,2024-09-20,September,2024,Fashion,Sneakers,3,1877.0,5631.0,2400,3231.0,South
+ORD1378,2024-09-20,September,2024,Home & Kitchen,Water Bottle,1,346.0,346.0,100,246.0,South
+ORD1788,2024-09-20,September,2024,Fashion,Casual Watch,6,1255.0,7530.0,3000,4530.0,Central
+ORD1798,2024-09-20,September,2024,Home & Kitchen,Coffee Mug,2,240.0,480.0,140,340.0,East
+ORD2149,2024-09-20,September,2024,Electronics,Wireless Earbuds,4,1350.0,5400.0,2600,2800.0,Central
+ORD2220,2024-09-20,September,2024,Fashion,Denim Jeans,6,1025.0,6150.0,2100,4050.0,South
+ORD2272,2024-09-20,September,2024,Beauty & Health,Lip Balm,4,142.0,568.0,160,408.0,Central
+ORD1483,2024-09-21,September,2024,Fashion,Sunglasses,6,579.0,3474.0,1080,2394.0,West
+ORD1755,2024-09-21,September,2024,Home & Kitchen,Notebook Set,4,308.0,1232.0,320,912.0,West
+ORD1841,2024-09-21,September,2024,Sports & Fitness,Resistance Bands,3,509.0,1527.0,450,1077.0,South
+ORD2494,2024-09-21,September,2024,Home & Kitchen,Notebook Set,1,290.0,290.0,80,210.0,North
+ORD1300,2024-09-22,September,2024,Home & Kitchen,Water Bottle,1,357.0,357.0,100,257.0,West
+ORD1322,2024-09-22,September,2024,Fashion,Sneakers,3,1739.0,5217.0,2400,2817.0,South
+ORD1357,2024-09-22,September,2024,Fashion,Sunglasses,4,589.0,2356.0,720,1636.0,Central
+ORD1476,2024-09-22,September,2024,Sports & Fitness,Gym Gloves,2,406.0,812.0,220,592.0,West
+ORD1524,2024-09-22,September,2024,Beauty & Health,Face Wash,3,237.0,711.0,240,471.0,North
+ORD1707,2024-09-22,September,2024,Sports & Fitness,Gym Gloves,2,383.0,766.0,220,546.0,West
+ORD1989,2024-09-22,September,2024,Sports & Fitness,Skipping Rope,1,261.0,261.0,60,201.0,Central
+ORD1092,2024-09-23,September,2024,Beauty & Health,Moisturizer,1,390.0,390.0,120,270.0,East
+ORD2411,2024-09-23,September,2024,Sports & Fitness,Protein Shaker,6,339.0,2034.0,600,1434.0,Central
+ORD1116,2024-09-24,September,2024,Home & Kitchen,Notebook Set,6,308.0,1848.0,480,1368.0,West
+ORD1137,2024-09-24,September,2024,Beauty & Health,Hair Serum,3,519.0,1557.0,480,1077.0,Central
+ORD1817,2024-09-24,September,2024,Electronics,Bluetooth Speaker,2,1425.0,2850.0,1400,1450.0,East
+ORD1260,2024-09-25,September,2024,Sports & Fitness,Gym Gloves,3,385.0,1155.0,330,825.0,East
+ORD1410,2024-09-25,September,2024,Home & Kitchen,Wall Clock,3,594.0,1782.0,600,1182.0,West
+ORD1428,2024-09-25,September,2024,Electronics,Wireless Earbuds,1,1357.0,1357.0,650,707.0,North
+ORD1997,2024-09-25,September,2024,Beauty & Health,Vitamin C Tablets,2,353.0,706.0,200,506.0,West
+ORD2296,2024-09-25,September,2024,Home & Kitchen,Wall Clock,2,622.0,1244.0,400,844.0,Central
+ORD1171,2024-09-26,September,2024,Beauty & Health,Face Wash,4,255.0,1020.0,320,700.0,South
+ORD1237,2024-09-26,September,2024,Home & Kitchen,Water Bottle,6,339.0,2034.0,600,1434.0,North
+ORD1387,2024-09-26,September,2024,Beauty & Health,Vitamin C Tablets,1,356.0,356.0,100,256.0,Central
+ORD2080,2024-09-26,September,2024,Home & Kitchen,Wall Clock,6,600.0,3600.0,1200,2400.0,Central
+ORD2200,2024-09-26,September,2024,Fashion,Sneakers,1,1744.0,1744.0,800,944.0,Central
+ORD1399,2024-09-27,September,2024,Fashion,Denim Jeans,1,1032.0,1032.0,350,682.0,East
+ORD1489,2024-09-27,September,2024,Home & Kitchen,Notebook Set,4,296.0,1184.0,320,864.0,Central
+ORD1536,2024-09-27,September,2024,Electronics,USB-C Cable,2,208.0,416.0,120,296.0,West
+ORD1026,2024-09-28,September,2024,Electronics,Bluetooth Speaker,1,1473.0,1473.0,700,773.0,North
+ORD1725,2024-09-28,September,2024,Electronics,Bluetooth Speaker,6,1564.0,9384.0,4200,5184.0,West
+ORD2401,2024-09-28,September,2024,Beauty & Health,Moisturizer,4,385.0,1540.0,480,1060.0,West
+ORD1350,2024-09-29,September,2024,Beauty & Health,Vitamin C Tablets,1,342.0,342.0,100,242.0,East
+ORD1325,2024-09-30,September,2024,Electronics,Bluetooth Speaker,6,1520.0,9120.0,4200,4920.0,Central
+ORD1930,2024-09-30,September,2024,Sports & Fitness,Skipping Rope,3,260.0,780.0,180,600.0,Central
+ORD2120,2024-09-30,September,2024,Home & Kitchen,Water Bottle,3,361.0,1083.0,300,783.0,South
+ORD2300,2024-09-30,September,2024,Home & Kitchen,Water Bottle,4,343.0,1372.0,400,972.0,West
+ORD2367,2024-09-30,September,2024,Electronics,Wireless Earbuds,1,1285.0,1285.0,650,635.0,South
+ORD1008,2024-10-01,October,2024,Electronics,Portable Charger,3,861.0,2583.0,1200,1383.0,Central
+ORD1389,2024-10-01,October,2024,Fashion,Denim Jeans,6,982.0,5892.0,2100,3792.0,West
+ORD1415,2024-10-01,October,2024,Fashion,Cotton T-Shirt,6,390.0,2340.0,720,1620.0,Central
+ORD1365,2024-10-02,October,2024,Home & Kitchen,Notebook Set,2,305.0,610.0,160,450.0,North
+ORD1386,2024-10-02,October,2024,Fashion,Denim Jeans,6,1017.0,6102.0,2100,4002.0,North
+ORD1508,2024-10-02,October,2024,Fashion,Sneakers,3,1885.0,5655.0,2400,3255.0,East
+ORD1782,2024-10-02,October,2024,Fashion,Sneakers,1,1841.0,1841.0,800,1041.0,North
+ORD2239,2024-10-02,October,2024,Electronics,Wireless Earbuds,6,1354.0,8124.0,3900,4224.0,West
+ORD2271,2024-10-02,October,2024,Home & Kitchen,Water Bottle,5,348.0,1740.0,500,1240.0,Central
+ORD2466,2024-10-02,October,2024,Electronics,Wireless Earbuds,5,1304.0,6520.0,3250,3270.0,North
+ORD1208,2024-10-03,October,2024,Home & Kitchen,Coffee Mug,1,239.0,239.0,70,169.0,South
+ORD1269,2024-10-03,October,2024,Sports & Fitness,Resistance Bands,6,507.0,3042.0,900,2142.0,South
+ORD1617,2024-10-03,October,2024,Home & Kitchen,Desk Lamp,1,783.0,783.0,300,483.0,North
+ORD1882,2024-10-03,October,2024,Fashion,Cotton T-Shirt,3,397.0,1191.0,360,831.0,West
+ORD2144,2024-10-03,October,2024,Sports & Fitness,Yoga Mat,2,796.0,1592.0,500,1092.0,East
+ORD2455,2024-10-03,October,2024,Fashion,Denim Jeans,5,1003.0,5015.0,1750,3265.0,Central
+ORD1046,2024-10-04,October,2024,Electronics,USB-C Cable,6,190.0,1140.0,360,780.0,West
+ORD1737,2024-10-04,October,2024,Electronics,USB-C Cable,1,205.0,205.0,60,145.0,Central
+ORD1974,2024-10-04,October,2024,Fashion,Denim Jeans,6,980.0,5880.0,2100,3780.0,South
+ORD1055,2024-10-05,October,2024,Home & Kitchen,Notebook Set,6,313.0,1878.0,480,1398.0,North
+ORD1472,2024-10-05,October,2024,Electronics,USB-C Cable,6,203.0,1218.0,360,858.0,Central
+ORD1587,2024-10-05,October,2024,Beauty & Health,Lip Balm,6,155.0,930.0,240,690.0,East
+ORD1794,2024-10-05,October,2024,Sports & Fitness,Yoga Mat,5,789.0,3945.0,1250,2695.0,East
+ORD1897,2024-10-05,October,2024,Beauty & Health,Moisturizer,3,387.0,1161.0,360,801.0,West
+ORD2221,2024-10-05,October,2024,Home & Kitchen,Desk Lamp,3,825.0,2475.0,900,1575.0,East
+ORD1359,2024-10-06,October,2024,Home & Kitchen,Desk Lamp,2,808.0,1616.0,600,1016.0,South
+ORD1503,2024-10-06,October,2024,Fashion,Casual Watch,2,1247.0,2494.0,1000,1494.0,East
+ORD1560,2024-10-06,October,2024,Fashion,Denim Jeans,5,950.0,4750.0,1750,3000.0,North
+ORD2078,2024-10-06,October,2024,Sports & Fitness,Protein Shaker,1,333.0,333.0,100,233.0,Central
+ORD1517,2024-10-07,October,2024,Sports & Fitness,Yoga Mat,5,804.0,4020.0,1250,2770.0,East
+ORD1770,2024-10-07,October,2024,Electronics,USB-C Cable,3,193.0,579.0,180,399.0,South
+ORD1959,2024-10-07,October,2024,Beauty & Health,Vitamin C Tablets,2,357.0,714.0,200,514.0,North
+ORD2102,2024-10-07,October,2024,Electronics,Wireless Earbuds,1,1342.0,1342.0,650,692.0,West
+ORD2349,2024-10-07,October,2024,Sports & Fitness,Skipping Rope,3,239.0,717.0,180,537.0,South
+ORD1041,2024-10-08,October,2024,Electronics,Wireless Earbuds,6,1319.0,7914.0,3900,4014.0,North
+ORD1576,2024-10-08,October,2024,Fashion,Cotton T-Shirt,2,397.0,794.0,240,554.0,North
+ORD1773,2024-10-08,October,2024,Beauty & Health,Vitamin C Tablets,1,334.0,334.0,100,234.0,East
+ORD1824,2024-10-08,October,2024,Sports & Fitness,Resistance Bands,1,482.0,482.0,150,332.0,North
+ORD1833,2024-10-08,October,2024,Home & Kitchen,Notebook Set,3,311.0,933.0,240,693.0,East
+ORD1998,2024-10-08,October,2024,Beauty & Health,Face Wash,3,256.0,768.0,240,528.0,Central
+ORD1438,2024-10-09,October,2024,Beauty & Health,Face Wash,2,252.0,504.0,160,344.0,North
+ORD1131,2024-10-10,October,2024,Home & Kitchen,Coffee Mug,5,252.0,1260.0,350,910.0,North
+ORD1532,2024-10-10,October,2024,Sports & Fitness,Gym Gloves,3,408.0,1224.0,330,894.0,North
+ORD1843,2024-10-10,October,2024,Fashion,Casual Watch,2,1275.0,2550.0,1000,1550.0,Central
+ORD2380,2024-10-10,October,2024,Electronics,USB-C Cable,5,207.0,1035.0,300,735.0,West
+ORD2451,2024-10-10,October,2024,Beauty & Health,Face Wash,5,249.0,1245.0,400,845.0,South
+ORD1745,2024-10-11,October,2024,Home & Kitchen,Coffee Mug,3,241.0,723.0,210,513.0,North
+ORD2055,2024-10-11,October,2024,Electronics,USB-C Cable,5,200.0,1000.0,300,700.0,Central
+ORD2453,2024-10-11,October,2024,Fashion,Sneakers,5,1811.0,9055.0,4000,5055.0,North
+ORD2461,2024-10-11,October,2024,Home & Kitchen,Wall Clock,6,582.0,3492.0,1200,2292.0,East
+ORD1136,2024-10-12,October,2024,Beauty & Health,Vitamin C Tablets,6,352.0,2112.0,600,1512.0,South
+ORD1454,2024-10-12,October,2024,Sports & Fitness,Gym Gloves,1,395.0,395.0,110,285.0,North
+ORD1923,2024-10-12,October,2024,Beauty & Health,Lip Balm,1,153.0,153.0,40,113.0,Central
+ORD1976,2024-10-12,October,2024,Sports & Fitness,Resistance Bands,2,483.0,966.0,300,666.0,North
+ORD1265,2024-10-13,October,2024,Beauty & Health,Lip Balm,6,154.0,924.0,240,684.0,North
+ORD1836,2024-10-13,October,2024,Electronics,Bluetooth Speaker,1,1468.0,1468.0,700,768.0,Central
+ORD1004,2024-10-14,October,2024,Fashion,Sunglasses,5,594.0,2970.0,900,2070.0,Central
+ORD1062,2024-10-14,October,2024,Electronics,Wireless Earbuds,2,1244.0,2488.0,1300,1188.0,Central
+ORD2010,2024-10-14,October,2024,Fashion,Casual Watch,3,1331.0,3993.0,1500,2493.0,North
+ORD2192,2024-10-14,October,2024,Electronics,USB-C Cable,2,209.0,418.0,120,298.0,East
+ORD2391,2024-10-14,October,2024,Fashion,Casual Watch,3,1268.0,3804.0,1500,2304.0,East
+ORD2438,2024-10-14,October,2024,Electronics,Bluetooth Speaker,6,1437.0,8622.0,4200,4422.0,Central
+ORD1108,2024-10-15,October,2024,Fashion,Casual Watch,3,1325.0,3975.0,1500,2475.0,South
+ORD1251,2024-10-15,October,2024,Sports & Fitness,Skipping Rope,6,254.0,1524.0,360,1164.0,Central
+ORD1327,2024-10-15,October,2024,Electronics,Wireless Earbuds,6,1245.0,7470.0,3900,3570.0,East
+ORD1423,2024-10-15,October,2024,Fashion,Denim Jeans,6,951.0,5706.0,2100,3606.0,Central
+ORD1442,2024-10-15,October,2024,Electronics,Phone Case,3,312.0,936.0,240,696.0,North
+ORD1804,2024-10-15,October,2024,Electronics,USB-C Cable,2,208.0,416.0,120,296.0,West
+ORD1838,2024-10-15,October,2024,Beauty & Health,Moisturizer,5,409.0,2045.0,600,1445.0,West
+ORD1178,2024-10-16,October,2024,Fashion,Denim Jeans,6,967.0,5802.0,2100,3702.0,West
+ORD1501,2024-10-16,October,2024,Beauty & Health,Vitamin C Tablets,6,349.0,2094.0,600,1494.0,North
+ORD2417,2024-10-16,October,2024,Sports & Fitness,Gym Gloves,3,388.0,1164.0,330,834.0,East
+ORD2474,2024-10-16,October,2024,Fashion,Cotton T-Shirt,1,403.0,403.0,120,283.0,South
+ORD1233,2024-10-17,October,2024,Sports & Fitness,Resistance Bands,2,518.0,1036.0,300,736.0,South
+ORD1377,2024-10-17,October,2024,Fashion,Denim Jeans,5,1010.0,5050.0,1750,3300.0,West
+ORD1537,2024-10-18,October,2024,Beauty & Health,Lip Balm,2,150.0,300.0,80,220.0,West
+ORD1703,2024-10-18,October,2024,Beauty & Health,Moisturizer,3,403.0,1209.0,360,849.0,Central
+ORD2263,2024-10-18,October,2024,Beauty & Health,Vitamin C Tablets,6,355.0,2130.0,600,1530.0,West
+ORD1257,2024-10-19,October,2024,Fashion,Sneakers,6,1818.0,10908.0,4800,6108.0,South
+ORD1288,2024-10-19,October,2024,Beauty & Health,Moisturizer,1,406.0,406.0,120,286.0,Central
+ORD1629,2024-10-19,October,2024,Sports & Fitness,Gym Gloves,6,406.0,2436.0,660,1776.0,South
+ORD1920,2024-10-19,October,2024,Beauty & Health,Hair Serum,6,500.0,3000.0,960,2040.0,East
+ORD1987,2024-10-19,October,2024,Sports & Fitness,Gym Gloves,1,400.0,400.0,110,290.0,Central
+ORD1243,2024-10-20,October,2024,Beauty & Health,Hair Serum,5,488.0,2440.0,800,1640.0,North
+ORD1509,2024-10-20,October,2024,Home & Kitchen,Notebook Set,1,314.0,314.0,80,234.0,South
+ORD1551,2024-10-20,October,2024,Electronics,Phone Case,1,306.0,306.0,80,226.0,North
+ORD2162,2024-10-20,October,2024,Electronics,Portable Charger,1,942.0,942.0,400,542.0,West
+ORD1097,2024-10-21,October,2024,Beauty & Health,Hair Serum,3,474.0,1422.0,480,942.0,East
+ORD1184,2024-10-21,October,2024,Home & Kitchen,Desk Lamp,5,761.0,3805.0,1500,2305.0,East
+ORD1592,2024-10-21,October,2024,Beauty & Health,Lip Balm,2,155.0,310.0,80,230.0,South
+ORD1835,2024-10-21,October,2024,Electronics,USB-C Cable,6,193.0,1158.0,360,798.0,North
+ORD2054,2024-10-21,October,2024,Fashion,Sunglasses,1,575.0,575.0,180,395.0,East
+ORD2116,2024-10-21,October,2024,Electronics,Bluetooth Speaker,5,1530.0,7650.0,3500,4150.0,West
+ORD2191,2024-10-21,October,2024,Fashion,Casual Watch,2,1268.0,2536.0,1000,1536.0,South
+ORD1407,2024-10-22,October,2024,Sports & Fitness,Protein Shaker,2,340.0,680.0,200,480.0,Central
+ORD1611,2024-10-22,October,2024,Fashion,Denim Jeans,1,994.0,994.0,350,644.0,East
+ORD1822,2024-10-22,October,2024,Home & Kitchen,Wall Clock,1,613.0,613.0,200,413.0,South
+ORD1866,2024-10-22,October,2024,Sports & Fitness,Gym Gloves,3,386.0,1158.0,330,828.0,East
+ORD2028,2024-10-22,October,2024,Home & Kitchen,Desk Lamp,2,764.0,1528.0,600,928.0,East
+ORD2077,2024-10-22,October,2024,Beauty & Health,Moisturizer,3,407.0,1221.0,360,861.0,West
+ORD2439,2024-10-22,October,2024,Electronics,Bluetooth Speaker,5,1502.0,7510.0,3500,4010.0,Central
+ORD1424,2024-10-23,October,2024,Beauty & Health,Lip Balm,3,144.0,432.0,120,312.0,South
+ORD2082,2024-10-23,October,2024,Home & Kitchen,Notebook Set,3,286.0,858.0,240,618.0,Central
+ORD2128,2024-10-23,October,2024,Fashion,Cotton T-Shirt,2,381.0,762.0,240,522.0,West
+ORD2150,2024-10-23,October,2024,Home & Kitchen,Wall Clock,3,581.0,1743.0,600,1143.0,South
+ORD1905,2024-10-24,October,2024,Beauty & Health,Vitamin C Tablets,1,337.0,337.0,100,237.0,South
+ORD2137,2024-10-24,October,2024,Electronics,Phone Case,6,287.0,1722.0,480,1242.0,West
+ORD1339,2024-10-25,October,2024,Home & Kitchen,Water Bottle,5,333.0,1665.0,500,1165.0,Central
+ORD1381,2024-10-25,October,2024,Sports & Fitness,Resistance Bands,3,487.0,1461.0,450,1011.0,South
+ORD2342,2024-10-25,October,2024,Electronics,Bluetooth Speaker,2,1539.0,3078.0,1400,1678.0,West
+ORD2499,2024-10-25,October,2024,Sports & Fitness,Yoga Mat,3,771.0,2313.0,750,1563.0,Central
+ORD1018,2024-10-26,October,2024,Beauty & Health,Vitamin C Tablets,2,345.0,690.0,200,490.0,South
+ORD1570,2024-10-26,October,2024,Electronics,Phone Case,5,287.0,1435.0,400,1035.0,West
+ORD1764,2024-10-26,October,2024,Electronics,Wireless Earbuds,6,1281.0,7686.0,3900,3786.0,North
+ORD1904,2024-10-26,October,2024,Electronics,Portable Charger,1,925.0,925.0,400,525.0,North
+ORD1165,2024-10-27,October,2024,Sports & Fitness,Skipping Rope,5,258.0,1290.0,300,990.0,Central
+ORD1200,2024-10-27,October,2024,Fashion,Casual Watch,5,1319.0,6595.0,2500,4095.0,Central
+ORD1223,2024-10-27,October,2024,Sports & Fitness,Gym Gloves,1,392.0,392.0,110,282.0,West
+ORD1600,2024-10-27,October,2024,Electronics,USB-C Cable,2,195.0,390.0,120,270.0,South
+ORD1650,2024-10-27,October,2024,Sports & Fitness,Protein Shaker,3,344.0,1032.0,300,732.0,North
+ORD1795,2024-10-27,October,2024,Electronics,Bluetooth Speaker,2,1462.0,2924.0,1400,1524.0,Central
+ORD1832,2024-10-27,October,2024,Fashion,Sunglasses,1,570.0,570.0,180,390.0,North
+ORD1839,2024-10-27,October,2024,Electronics,Portable Charger,1,865.0,865.0,400,465.0,West
+ORD2235,2024-10-27,October,2024,Fashion,Denim Jeans,1,1016.0,1016.0,350,666.0,North
+ORD1814,2024-10-28,October,2024,Sports & Fitness,Resistance Bands,3,495.0,1485.0,450,1035.0,West
+ORD2430,2024-10-28,October,2024,Beauty & Health,Face Wash,3,260.0,780.0,240,540.0,East
+ORD1170,2024-10-29,October,2024,Home & Kitchen,Water Bottle,5,362.0,1810.0,500,1310.0,North
+ORD1784,2024-10-29,October,2024,Fashion,Cotton T-Shirt,6,401.0,2406.0,720,1686.0,Central
+ORD1995,2024-10-29,October,2024,Fashion,Casual Watch,3,1246.0,3738.0,1500,2238.0,South
+ORD1467,2024-10-30,October,2024,Sports & Fitness,Yoga Mat,6,814.0,4884.0,1500,3384.0,North
+ORD1567,2024-10-30,October,2024,Sports & Fitness,Resistance Bands,2,496.0,992.0,300,692.0,South
+ORD2047,2024-10-30,October,2024,Beauty & Health,Vitamin C Tablets,3,344.0,1032.0,300,732.0,South
+ORD2124,2024-10-30,October,2024,Fashion,Casual Watch,6,1285.0,7710.0,3000,4710.0,East
+ORD2135,2024-10-30,October,2024,Fashion,Sneakers,3,1720.0,5160.0,2400,2760.0,South
+ORD2186,2024-10-30,October,2024,Sports & Fitness,Gym Gloves,3,397.0,1191.0,330,861.0,Central
+ORD2279,2024-10-30,October,2024,Home & Kitchen,Desk Lamp,6,764.0,4584.0,1800,2784.0,West
+ORD1941,2024-10-31,October,2024,Home & Kitchen,Water Bottle,6,357.0,2142.0,600,1542.0,West
+ORD1946,2024-10-31,October,2024,Sports & Fitness,Gym Gloves,5,383.0,1915.0,550,1365.0,East
+ORD2250,2024-10-31,October,2024,Beauty & Health,Face Wash,5,242.0,1210.0,400,810.0,West
+ORD2495,2024-10-31,October,2024,Electronics,Bluetooth Speaker,2,1542.0,3084.0,1400,1684.0,Central
+ORD1021,2024-11-01,November,2024,Beauty & Health,Vitamin C Tablets,8,340.0,2720.0,800,1920.0,North
+ORD1121,2024-11-01,November,2024,Home & Kitchen,Notebook Set,3,284.0,852.0,240,612.0,North
+ORD1217,2024-11-01,November,2024,Sports & Fitness,Protein Shaker,8,347.0,2776.0,800,1976.0,West
+ORD1270,2024-11-01,November,2024,Beauty & Health,Moisturizer,8,386.0,3088.0,960,2128.0,South
+ORD1286,2024-11-01,November,2024,Sports & Fitness,Resistance Bands,8,506.0,4048.0,1200,2848.0,South
+ORD1681,2024-11-01,November,2024,Sports & Fitness,Protein Shaker,3,347.0,1041.0,300,741.0,East
+ORD2060,2024-11-01,November,2024,Beauty & Health,Lip Balm,6,150.0,900.0,240,660.0,South
+ORD1163,2024-11-02,November,2024,Sports & Fitness,Yoga Mat,4,828.0,3312.0,1000,2312.0,West
+ORD1471,2024-11-02,November,2024,Beauty & Health,Vitamin C Tablets,8,346.0,2768.0,800,1968.0,West
+ORD2458,2024-11-02,November,2024,Home & Kitchen,Wall Clock,3,629.0,1887.0,600,1287.0,Central
+ORD2323,2024-11-03,November,2024,Fashion,Sneakers,3,1840.0,5520.0,2400,3120.0,West
+ORD1301,2024-11-04,November,2024,Fashion,Sunglasses,1,587.0,587.0,180,407.0,North
+ORD1346,2024-11-04,November,2024,Sports & Fitness,Skipping Rope,1,249.0,249.0,60,189.0,North
+ORD1799,2024-11-04,November,2024,Electronics,Phone Case,4,296.0,1184.0,320,864.0,North
+ORD2202,2024-11-04,November,2024,Sports & Fitness,Gym Gloves,4,417.0,1668.0,440,1228.0,West
+ORD2310,2024-11-04,November,2024,Sports & Fitness,Protein Shaker,1,347.0,347.0,100,247.0,North
+ORD2384,2024-11-04,November,2024,Beauty & Health,Moisturizer,6,414.0,2484.0,720,1764.0,West
+ORD2427,2024-11-04,November,2024,Beauty & Health,Face Wash,8,240.0,1920.0,640,1280.0,East
+ORD1447,2024-11-05,November,2024,Sports & Fitness,Gym Gloves,4,395.0,1580.0,440,1140.0,North
+ORD1074,2024-11-06,November,2024,Sports & Fitness,Resistance Bands,8,493.0,3944.0,1200,2744.0,South
+ORD1109,2024-11-06,November,2024,Sports & Fitness,Resistance Bands,3,513.0,1539.0,450,1089.0,East
+ORD1235,2024-11-06,November,2024,Beauty & Health,Hair Serum,8,488.0,3904.0,1280,2624.0,North
+ORD1805,2024-11-06,November,2024,Beauty & Health,Hair Serum,6,483.0,2898.0,960,1938.0,Central
+ORD2030,2024-11-06,November,2024,Beauty & Health,Moisturizer,4,403.0,1612.0,480,1132.0,East
+ORD2329,2024-11-06,November,2024,Sports & Fitness,Resistance Bands,8,474.0,3792.0,1200,2592.0,Central
+ORD1025,2024-11-07,November,2024,Fashion,Denim Jeans,3,986.0,2958.0,1050,1908.0,Central
+ORD1639,2024-11-07,November,2024,Beauty & Health,Face Wash,4,246.0,984.0,320,664.0,South
+ORD1932,2024-11-07,November,2024,Fashion,Sunglasses,6,602.0,3612.0,1080,2532.0,Central
+ORD2016,2024-11-07,November,2024,Home & Kitchen,Desk Lamp,8,801.0,6408.0,2400,4008.0,East
+ORD1196,2024-11-08,November,2024,Fashion,Cotton T-Shirt,6,404.0,2424.0,720,1704.0,East
+ORD1272,2024-11-08,November,2024,Home & Kitchen,Wall Clock,3,583.0,1749.0,600,1149.0,East
+ORD1528,2024-11-08,November,2024,Fashion,Casual Watch,3,1280.0,3840.0,1500,2340.0,South
+ORD2099,2024-11-08,November,2024,Home & Kitchen,Desk Lamp,1,781.0,781.0,300,481.0,East
+ORD1854,2024-11-09,November,2024,Home & Kitchen,Coffee Mug,3,250.0,750.0,210,540.0,East
+ORD1889,2024-11-09,November,2024,Home & Kitchen,Desk Lamp,8,811.0,6488.0,2400,4088.0,East
+ORD1917,2024-11-09,November,2024,Home & Kitchen,Desk Lamp,4,792.0,3168.0,1200,1968.0,North
+ORD2237,2024-11-09,November,2024,Fashion,Sunglasses,1,603.0,603.0,180,423.0,Central
+ORD1228,2024-11-10,November,2024,Sports & Fitness,Resistance Bands,4,504.0,2016.0,600,1416.0,North
+ORD1384,2024-11-10,November,2024,Fashion,Denim Jeans,6,1045.0,6270.0,2100,4170.0,South
+ORD1810,2024-11-10,November,2024,Sports & Fitness,Resistance Bands,8,518.0,4144.0,1200,2944.0,Central
+ORD1827,2024-11-10,November,2024,Sports & Fitness,Protein Shaker,8,356.0,2848.0,800,2048.0,North
+ORD1847,2024-11-10,November,2024,Electronics,Bluetooth Speaker,6,1568.0,9408.0,4200,5208.0,East
+ORD1366,2024-11-11,November,2024,Sports & Fitness,Yoga Mat,8,778.0,6224.0,2000,4224.0,South
+ORD1461,2024-11-11,November,2024,Fashion,Casual Watch,4,1248.0,4992.0,2000,2992.0,North
+ORD2020,2024-11-11,November,2024,Beauty & Health,Hair Serum,4,476.0,1904.0,640,1264.0,Central
+ORD1234,2024-11-12,November,2024,Electronics,Wireless Earbuds,6,1269.0,7614.0,3900,3714.0,West
+ORD1450,2024-11-12,November,2024,Home & Kitchen,Coffee Mug,1,254.0,254.0,70,184.0,East
+ORD2325,2024-11-12,November,2024,Beauty & Health,Moisturizer,6,394.0,2364.0,720,1644.0,North
+ORD2409,2024-11-12,November,2024,Beauty & Health,Lip Balm,6,155.0,930.0,240,690.0,South
+ORD1066,2024-11-13,November,2024,Fashion,Denim Jeans,3,1035.0,3105.0,1050,2055.0,West
+ORD1179,2024-11-13,November,2024,Fashion,Casual Watch,3,1353.0,4059.0,1500,2559.0,South
+ORD1496,2024-11-13,November,2024,Electronics,USB-C Cable,6,208.0,1248.0,360,888.0,South
+ORD1669,2024-11-13,November,2024,Electronics,Portable Charger,8,934.0,7472.0,3200,4272.0,North
+ORD1848,2024-11-13,November,2024,Home & Kitchen,Wall Clock,8,623.0,4984.0,1600,3384.0,East
+ORD2171,2024-11-13,November,2024,Home & Kitchen,Water Bottle,4,350.0,1400.0,400,1000.0,North
+ORD2493,2024-11-13,November,2024,Electronics,USB-C Cable,1,202.0,202.0,60,142.0,West
+ORD1101,2024-11-14,November,2024,Sports & Fitness,Resistance Bands,8,519.0,4152.0,1200,2952.0,Central
+ORD2002,2024-11-14,November,2024,Home & Kitchen,Water Bottle,6,348.0,2088.0,600,1488.0,Central
+ORD1344,2024-11-15,November,2024,Sports & Fitness,Resistance Bands,1,480.0,480.0,150,330.0,West
+ORD2075,2024-11-15,November,2024,Fashion,Casual Watch,8,1300.0,10400.0,4000,6400.0,West
+ORD2087,2024-11-15,November,2024,Electronics,USB-C Cable,3,199.0,597.0,180,417.0,Central
+ORD2365,2024-11-15,November,2024,Home & Kitchen,Desk Lamp,3,836.0,2508.0,900,1608.0,South
+ORD1143,2024-11-16,November,2024,Sports & Fitness,Yoga Mat,8,793.0,6344.0,2000,4344.0,South
+ORD1157,2024-11-16,November,2024,Beauty & Health,Face Wash,8,242.0,1936.0,640,1296.0,South
+ORD1927,2024-11-16,November,2024,Fashion,Sunglasses,6,614.0,3684.0,1080,2604.0,North
+ORD2001,2024-11-16,November,2024,Fashion,Cotton T-Shirt,3,415.0,1245.0,360,885.0,North
+ORD2285,2024-11-16,November,2024,Electronics,Bluetooth Speaker,6,1454.0,8724.0,4200,4524.0,South
+ORD1020,2024-11-17,November,2024,Fashion,Casual Watch,6,1312.0,7872.0,3000,4872.0,West
+ORD1329,2024-11-17,November,2024,Sports & Fitness,Protein Shaker,4,354.0,1416.0,400,1016.0,West
+ORD1549,2024-11-17,November,2024,Electronics,Portable Charger,4,895.0,3580.0,1600,1980.0,North
+ORD1632,2024-11-17,November,2024,Fashion,Sunglasses,1,584.0,584.0,180,404.0,North
+ORD2346,2024-11-17,November,2024,Home & Kitchen,Notebook Set,4,304.0,1216.0,320,896.0,North
+ORD1586,2024-11-18,November,2024,Sports & Fitness,Resistance Bands,4,523.0,2092.0,600,1492.0,West
+ORD1863,2024-11-18,November,2024,Electronics,Portable Charger,4,921.0,3684.0,1600,2084.0,East
+ORD1253,2024-11-19,November,2024,Home & Kitchen,Desk Lamp,4,806.0,3224.0,1200,2024.0,Central
+ORD1673,2024-11-19,November,2024,Fashion,Sneakers,1,1823.0,1823.0,800,1023.0,West
+ORD2307,2024-11-19,November,2024,Home & Kitchen,Wall Clock,4,616.0,2464.0,800,1664.0,North
+ORD1060,2024-11-20,November,2024,Beauty & Health,Lip Balm,4,142.0,568.0,160,408.0,South
+ORD1231,2024-11-20,November,2024,Electronics,Wireless Earbuds,3,1331.0,3993.0,1950,2043.0,West
+ORD1448,2024-11-20,November,2024,Home & Kitchen,Wall Clock,4,598.0,2392.0,800,1592.0,Central
+ORD1723,2024-11-20,November,2024,Sports & Fitness,Resistance Bands,6,513.0,3078.0,900,2178.0,West
+ORD1742,2024-11-20,November,2024,Home & Kitchen,Notebook Set,8,300.0,2400.0,640,1760.0,South
+ORD1840,2024-11-20,November,2024,Fashion,Denim Jeans,6,1029.0,6174.0,2100,4074.0,East
+ORD1324,2024-11-21,November,2024,Sports & Fitness,Protein Shaker,4,336.0,1344.0,400,944.0,Central
+ORD1515,2024-11-21,November,2024,Home & Kitchen,Water Bottle,6,359.0,2154.0,600,1554.0,South
+ORD2063,2024-11-21,November,2024,Electronics,Phone Case,6,304.0,1824.0,480,1344.0,Central
+ORD2454,2024-11-21,November,2024,Sports & Fitness,Yoga Mat,3,822.0,2466.0,750,1716.0,East
+ORD1061,2024-11-22,November,2024,Home & Kitchen,Coffee Mug,8,255.0,2040.0,560,1480.0,West
+ORD1367,2024-11-22,November,2024,Fashion,Cotton T-Shirt,4,383.0,1532.0,480,1052.0,West
+ORD1473,2024-11-22,November,2024,Electronics,Wireless Earbuds,4,1334.0,5336.0,2600,2736.0,South
+ORD1891,2024-11-22,November,2024,Beauty & Health,Vitamin C Tablets,8,347.0,2776.0,800,1976.0,West
+ORD1902,2024-11-22,November,2024,Home & Kitchen,Coffee Mug,1,246.0,246.0,70,176.0,South
+ORD1914,2024-11-22,November,2024,Sports & Fitness,Skipping Rope,1,255.0,255.0,60,195.0,Central
+ORD1928,2024-11-22,November,2024,Sports & Fitness,Protein Shaker,6,355.0,2130.0,600,1530.0,North
+ORD2021,2024-11-22,November,2024,Fashion,Cotton T-Shirt,4,405.0,1620.0,480,1140.0,East
+ORD2158,2024-11-22,November,2024,Sports & Fitness,Yoga Mat,8,805.0,6440.0,2000,4440.0,South
+ORD1001,2024-11-23,November,2024,Electronics,Wireless Earbuds,3,1330.0,3990.0,1950,2040.0,South
+ORD1685,2024-11-23,November,2024,Home & Kitchen,Notebook Set,8,303.0,2424.0,640,1784.0,North
+ORD1869,2024-11-23,November,2024,Home & Kitchen,Wall Clock,8,607.0,4856.0,1600,3256.0,West
+ORD2304,2024-11-23,November,2024,Home & Kitchen,Water Bottle,3,350.0,1050.0,300,750.0,West
+ORD1396,2024-11-24,November,2024,Beauty & Health,Lip Balm,6,156.0,936.0,240,696.0,West
+ORD2094,2024-11-24,November,2024,Home & Kitchen,Water Bottle,6,333.0,1998.0,600,1398.0,West
+ORD2311,2024-11-24,November,2024,Fashion,Casual Watch,3,1337.0,4011.0,1500,2511.0,North
+ORD1123,2024-11-26,November,2024,Beauty & Health,Hair Serum,1,514.0,514.0,160,354.0,East
+ORD1203,2024-11-26,November,2024,Home & Kitchen,Water Bottle,3,345.0,1035.0,300,735.0,North
+ORD1266,2024-11-26,November,2024,Beauty & Health,Vitamin C Tablets,4,344.0,1376.0,400,976.0,East
+ORD2185,2024-11-26,November,2024,Home & Kitchen,Wall Clock,4,604.0,2416.0,800,1616.0,West
+ORD2437,2024-11-26,November,2024,Electronics,Phone Case,8,305.0,2440.0,640,1800.0,East
+ORD1114,2024-11-27,November,2024,Home & Kitchen,Water Bottle,6,361.0,2166.0,600,1566.0,North
+ORD1144,2024-11-27,November,2024,Fashion,Sneakers,1,1858.0,1858.0,800,1058.0,North
+ORD1474,2024-11-27,November,2024,Sports & Fitness,Resistance Bands,6,502.0,3012.0,900,2112.0,East
+ORD1197,2024-11-28,November,2024,Beauty & Health,Face Wash,1,240.0,240.0,80,160.0,East
+ORD1328,2024-11-29,November,2024,Fashion,Sunglasses,1,594.0,594.0,180,414.0,West
+ORD1340,2024-11-30,November,2024,Beauty & Health,Lip Balm,1,150.0,150.0,40,110.0,West
+ORD1369,2024-11-30,November,2024,Beauty & Health,Hair Serum,4,507.0,2028.0,640,1388.0,East
+ORD1398,2024-11-30,November,2024,Home & Kitchen,Water Bottle,8,338.0,2704.0,800,1904.0,West
+ORD1615,2024-11-30,November,2024,Fashion,Sunglasses,3,622.0,1866.0,540,1326.0,North
+ORD1871,2024-11-30,November,2024,Home & Kitchen,Desk Lamp,6,807.0,4842.0,1800,3042.0,East
+ORD2129,2024-11-30,November,2024,Electronics,Portable Charger,8,936.0,7488.0,3200,4288.0,North
+ORD2213,2024-11-30,November,2024,Home & Kitchen,Wall Clock,3,580.0,1740.0,600,1140.0,North
+ORD2457,2024-11-30,November,2024,Fashion,Cotton T-Shirt,6,381.0,2286.0,720,1566.0,East
+ORD1081,2024-12-01,December,2024,Home & Kitchen,Wall Clock,3,596.0,1788.0,600,1188.0,Central
+ORD1250,2024-12-01,December,2024,Electronics,Phone Case,7,312.0,2184.0,560,1624.0,West
+ORD1521,2024-12-01,December,2024,Home & Kitchen,Desk Lamp,3,766.0,2298.0,900,1398.0,North
+ORD1661,2024-12-01,December,2024,Beauty & Health,Lip Balm,7,145.0,1015.0,280,735.0,West
+ORD2100,2024-12-01,December,2024,Sports & Fitness,Skipping Rope,3,248.0,744.0,180,564.0,Central
+ORD2347,2024-12-01,December,2024,Sports & Fitness,Skipping Rope,9,245.0,2205.0,540,1665.0,South
+ORD2368,2024-12-01,December,2024,Beauty & Health,Hair Serum,9,509.0,4581.0,1440,3141.0,West
+ORD1292,2024-12-02,December,2024,Electronics,Bluetooth Speaker,5,1534.0,7670.0,3500,4170.0,South
+ORD1591,2024-12-02,December,2024,Fashion,Sneakers,1,1805.0,1805.0,800,1005.0,South
+ORD1718,2024-12-02,December,2024,Home & Kitchen,Wall Clock,3,576.0,1728.0,600,1128.0,North
+ORD1213,2024-12-03,December,2024,Sports & Fitness,Protein Shaker,1,348.0,348.0,100,248.0,North
+ORD1470,2024-12-03,December,2024,Fashion,Casual Watch,1,1337.0,1337.0,500,837.0,West
+ORD1533,2024-12-03,December,2024,Home & Kitchen,Coffee Mug,9,249.0,2241.0,630,1611.0,South
+ORD1724,2024-12-03,December,2024,Sports & Fitness,Gym Gloves,7,384.0,2688.0,770,1918.0,North
+ORD1789,2024-12-03,December,2024,Fashion,Casual Watch,1,1356.0,1356.0,500,856.0,South
+ORD1999,2024-12-03,December,2024,Fashion,Denim Jeans,3,1036.0,3108.0,1050,2058.0,North
+ORD2039,2024-12-03,December,2024,Home & Kitchen,Water Bottle,5,352.0,1760.0,500,1260.0,South
+ORD2090,2024-12-03,December,2024,Beauty & Health,Lip Balm,5,154.0,770.0,200,570.0,South
+ORD1402,2024-12-04,December,2024,Beauty & Health,Vitamin C Tablets,1,358.0,358.0,100,258.0,South
+ORD1622,2024-12-04,December,2024,Home & Kitchen,Water Bottle,7,354.0,2478.0,700,1778.0,South
+ORD1686,2024-12-04,December,2024,Electronics,Wireless Earbuds,1,1240.0,1240.0,650,590.0,West
+ORD1102,2024-12-05,December,2024,Electronics,Wireless Earbuds,3,1318.0,3954.0,1950,2004.0,West
+ORD2059,2024-12-05,December,2024,Electronics,Bluetooth Speaker,1,1549.0,1549.0,700,849.0,Central
+ORD2303,2024-12-05,December,2024,Electronics,Phone Case,7,292.0,2044.0,560,1484.0,East
+ORD1900,2024-12-06,December,2024,Fashion,Casual Watch,5,1285.0,6425.0,2500,3925.0,East
+ORD2115,2024-12-06,December,2024,Beauty & Health,Lip Balm,5,144.0,720.0,200,520.0,West
+ORD1056,2024-12-07,December,2024,Sports & Fitness,Protein Shaker,1,364.0,364.0,100,264.0,South
+ORD2418,2024-12-07,December,2024,Sports & Fitness,Yoga Mat,9,816.0,7344.0,2250,5094.0,South
+ORD1035,2024-12-08,December,2024,Beauty & Health,Moisturizer,9,401.0,3609.0,1080,2529.0,Central
+ORD1119,2024-12-08,December,2024,Beauty & Health,Lip Balm,5,142.0,710.0,200,510.0,South
+ORD1241,2024-12-08,December,2024,Home & Kitchen,Water Bottle,1,345.0,345.0,100,245.0,West
+ORD1791,2024-12-08,December,2024,Fashion,Sunglasses,5,623.0,3115.0,900,2215.0,West
+ORD2393,2024-12-08,December,2024,Electronics,Wireless Earbuds,7,1354.0,9478.0,4550,4928.0,West
+ORD1758,2024-12-09,December,2024,Fashion,Casual Watch,3,1343.0,4029.0,1500,2529.0,Central
+ORD1984,2024-12-09,December,2024,Fashion,Denim Jeans,7,956.0,6692.0,2450,4242.0,Central
+ORD2048,2024-12-09,December,2024,Sports & Fitness,Resistance Bands,7,523.0,3661.0,1050,2611.0,Central
+ORD2294,2024-12-09,December,2024,Electronics,Portable Charger,3,939.0,2817.0,1200,1617.0,South
+ORD1038,2024-12-10,December,2024,Electronics,Wireless Earbuds,5,1286.0,6430.0,3250,3180.0,North
+ORD1404,2024-12-10,December,2024,Electronics,Phone Case,7,306.0,2142.0,560,1582.0,West
+ORD1469,2024-12-10,December,2024,Beauty & Health,Moisturizer,3,404.0,1212.0,360,852.0,East
+ORD1491,2024-12-10,December,2024,Home & Kitchen,Notebook Set,3,302.0,906.0,240,666.0,East
+ORD2009,2024-12-10,December,2024,Home & Kitchen,Notebook Set,9,304.0,2736.0,720,2016.0,Central
+ORD2385,2024-12-10,December,2024,Home & Kitchen,Wall Clock,3,617.0,1851.0,600,1251.0,Central
+ORD2465,2024-12-10,December,2024,Fashion,Casual Watch,7,1306.0,9142.0,3500,5642.0,West
+ORD1149,2024-12-11,December,2024,Sports & Fitness,Gym Gloves,5,417.0,2085.0,550,1535.0,Central
+ORD1195,2024-12-11,December,2024,Fashion,Casual Watch,9,1237.0,11133.0,4500,6633.0,East
+ORD1738,2024-12-11,December,2024,Sports & Fitness,Yoga Mat,9,818.0,7362.0,2250,5112.0,West
+ORD1853,2024-12-11,December,2024,Fashion,Casual Watch,5,1310.0,6550.0,2500,4050.0,East
+ORD1079,2024-12-12,December,2024,Fashion,Sunglasses,7,603.0,4221.0,1260,2961.0,Central
+ORD1768,2024-12-12,December,2024,Home & Kitchen,Water Bottle,9,351.0,3159.0,900,2259.0,South
+ORD2357,2024-12-12,December,2024,Fashion,Denim Jeans,9,1042.0,9378.0,3150,6228.0,Central
+ORD2476,2024-12-13,December,2024,Electronics,Bluetooth Speaker,9,1516.0,13644.0,6300,7344.0,West
+ORD1022,2024-12-14,December,2024,Electronics,Bluetooth Speaker,5,1537.0,7685.0,3500,4185.0,North
+ORD1320,2024-12-14,December,2024,Sports & Fitness,Protein Shaker,9,336.0,3024.0,900,2124.0,Central
+ORD1670,2024-12-14,December,2024,Beauty & Health,Vitamin C Tablets,1,342.0,342.0,100,242.0,South
+ORD1820,2024-12-14,December,2024,Beauty & Health,Moisturizer,9,396.0,3564.0,1080,2484.0,West
+ORD2065,2024-12-14,December,2024,Home & Kitchen,Desk Lamp,5,805.0,4025.0,1500,2525.0,West
+ORD2176,2024-12-14,December,2024,Beauty & Health,Lip Balm,5,142.0,710.0,200,510.0,East
+ORD1518,2024-12-15,December,2024,Electronics,Wireless Earbuds,7,1247.0,8729.0,4550,4179.0,North
+ORD1736,2024-12-15,December,2024,Home & Kitchen,Coffee Mug,5,257.0,1285.0,350,935.0,South
+ORD2098,2024-12-15,December,2024,Electronics,Wireless Earbuds,5,1353.0,6765.0,3250,3515.0,West
+ORD2119,2024-12-15,December,2024,Home & Kitchen,Wall Clock,1,572.0,572.0,200,372.0,East
+ORD2301,2024-12-15,December,2024,Fashion,Sneakers,3,1867.0,5601.0,2400,3201.0,East
+ORD2462,2024-12-15,December,2024,Home & Kitchen,Desk Lamp,7,837.0,5859.0,2100,3759.0,East
+ORD1014,2024-12-16,December,2024,Home & Kitchen,Water Bottle,1,340.0,340.0,100,240.0,East
+ORD1437,2024-12-16,December,2024,Electronics,Wireless Earbuds,7,1246.0,8722.0,4550,4172.0,West
+ORD1498,2024-12-16,December,2024,Beauty & Health,Hair Serum,7,509.0,3563.0,1120,2443.0,West
+ORD1968,2024-12-16,December,2024,Home & Kitchen,Desk Lamp,3,809.0,2427.0,900,1527.0,Central
+ORD2222,2024-12-16,December,2024,Home & Kitchen,Water Bottle,5,350.0,1750.0,500,1250.0,South
+ORD1573,2024-12-17,December,2024,Home & Kitchen,Notebook Set,5,285.0,1425.0,400,1025.0,South
+ORD1578,2024-12-17,December,2024,Electronics,Bluetooth Speaker,1,1512.0,1512.0,700,812.0,North
+ORD2314,2024-12-17,December,2024,Beauty & Health,Lip Balm,3,148.0,444.0,120,324.0,East
+ORD1141,2024-12-18,December,2024,Sports & Fitness,Skipping Rope,3,244.0,732.0,180,552.0,East
+ORD1520,2024-12-18,December,2024,Fashion,Sneakers,5,1738.0,8690.0,4000,4690.0,North
+ORD1603,2024-12-18,December,2024,Home & Kitchen,Coffee Mug,1,241.0,241.0,70,171.0,Central
+ORD2118,2024-12-18,December,2024,Beauty & Health,Face Wash,5,251.0,1255.0,400,855.0,East
+ORD2197,2024-12-18,December,2024,Electronics,Portable Charger,3,935.0,2805.0,1200,1605.0,Central
+ORD1303,2024-12-19,December,2024,Beauty & Health,Lip Balm,5,148.0,740.0,200,540.0,Central
+ORD1936,2024-12-19,December,2024,Home & Kitchen,Notebook Set,9,299.0,2691.0,720,1971.0,Central
+ORD2169,2024-12-19,December,2024,Home & Kitchen,Notebook Set,7,285.0,1995.0,560,1435.0,East
+ORD2482,2024-12-19,December,2024,Beauty & Health,Face Wash,3,259.0,777.0,240,537.0,South
+ORD1608,2024-12-20,December,2024,Electronics,USB-C Cable,1,194.0,194.0,60,134.0,North
+ORD2218,2024-12-20,December,2024,Fashion,Sneakers,5,1738.0,8690.0,4000,4690.0,East
+ORD1312,2024-12-21,December,2024,Beauty & Health,Moisturizer,1,384.0,384.0,120,264.0,West
+ORD1464,2024-12-21,December,2024,Fashion,Casual Watch,7,1275.0,8925.0,3500,5425.0,East
+ORD2013,2024-12-21,December,2024,Home & Kitchen,Desk Lamp,9,801.0,7209.0,2700,4509.0,South
+ORD2216,2024-12-21,December,2024,Electronics,USB-C Cable,9,199.0,1791.0,540,1251.0,North
+ORD1112,2024-12-22,December,2024,Home & Kitchen,Notebook Set,9,308.0,2772.0,720,2052.0,North
+ORD1294,2024-12-22,December,2024,Beauty & Health,Moisturizer,1,411.0,411.0,120,291.0,West
+ORD1481,2024-12-22,December,2024,Beauty & Health,Lip Balm,1,143.0,143.0,40,103.0,North
+ORD2014,2024-12-22,December,2024,Fashion,Sunglasses,9,573.0,5157.0,1620,3537.0,Central
+ORD2122,2024-12-22,December,2024,Beauty & Health,Face Wash,5,252.0,1260.0,400,860.0,West
+ORD2371,2024-12-22,December,2024,Fashion,Cotton T-Shirt,3,387.0,1161.0,360,801.0,South
+ORD1543,2024-12-23,December,2024,Beauty & Health,Moisturizer,1,381.0,381.0,120,261.0,West
+ORD2170,2024-12-23,December,2024,Sports & Fitness,Gym Gloves,3,402.0,1206.0,330,876.0,North
+ORD2382,2024-12-23,December,2024,Beauty & Health,Face Wash,3,241.0,723.0,240,483.0,West
+ORD1565,2024-12-24,December,2024,Home & Kitchen,Wall Clock,1,627.0,627.0,200,427.0,Central
+ORD1874,2024-12-24,December,2024,Electronics,Phone Case,1,289.0,289.0,80,209.0,North
+ORD1012,2024-12-25,December,2024,Electronics,Bluetooth Speaker,9,1519.0,13671.0,6300,7371.0,South
+ORD1730,2024-12-25,December,2024,Sports & Fitness,Protein Shaker,9,356.0,3204.0,900,2304.0,South
+ORD1759,2024-12-25,December,2024,Beauty & Health,Face Wash,3,255.0,765.0,240,525.0,North
+ORD2175,2024-12-25,December,2024,Fashion,Denim Jeans,5,981.0,4905.0,1750,3155.0,Central
+ORD1361,2024-12-26,December,2024,Fashion,Casual Watch,5,1275.0,6375.0,2500,3875.0,Central
+ORD1383,2024-12-26,December,2024,Home & Kitchen,Water Bottle,5,354.0,1770.0,500,1270.0,East
+ORD1487,2024-12-26,December,2024,Electronics,Bluetooth Speaker,9,1439.0,12951.0,6300,6651.0,South
+ORD1706,2024-12-26,December,2024,Sports & Fitness,Gym Gloves,3,408.0,1224.0,330,894.0,East
+ORD1793,2024-12-26,December,2024,Sports & Fitness,Protein Shaker,5,361.0,1805.0,500,1305.0,Central
+ORD1142,2024-12-27,December,2024,Home & Kitchen,Wall Clock,3,573.0,1719.0,600,1119.0,East
+ORD1282,2024-12-27,December,2024,Beauty & Health,Hair Serum,1,505.0,505.0,160,345.0,North
+ORD1412,2024-12-28,December,2024,Fashion,Casual Watch,9,1353.0,12177.0,4500,7677.0,West
+ORD1607,2024-12-28,December,2024,Home & Kitchen,Wall Clock,3,570.0,1710.0,600,1110.0,South
+ORD1159,2024-12-29,December,2024,Fashion,Sneakers,9,1808.0,16272.0,7200,9072.0,West
+ORD1314,2024-12-29,December,2024,Electronics,Bluetooth Speaker,5,1505.0,7525.0,3500,4025.0,South
+ORD1506,2024-12-29,December,2024,Sports & Fitness,Skipping Rope,3,241.0,723.0,180,543.0,South
+ORD1732,2024-12-29,December,2024,Fashion,Sunglasses,5,602.0,3010.0,900,2110.0,North
+ORD1964,2024-12-29,December,2024,Electronics,USB-C Cable,9,199.0,1791.0,540,1251.0,Central
+ORD2031,2024-12-29,December,2024,Electronics,USB-C Cable,7,197.0,1379.0,420,959.0,South
+ORD2178,2024-12-29,December,2024,Sports & Fitness,Gym Gloves,7,415.0,2905.0,770,2135.0,Central
+ORD2229,2024-12-29,December,2024,Home & Kitchen,Water Bottle,1,358.0,358.0,100,258.0,South
+ORD1315,2024-12-30,December,2024,Fashion,Sneakers,1,1801.0,1801.0,800,1001.0,South
+ORD1966,2024-12-30,December,2024,Electronics,Wireless Earbuds,9,1266.0,11394.0,5850,5544.0,East
+ORD2226,2024-12-30,December,2024,Sports & Fitness,Resistance Bands,1,495.0,495.0,150,345.0,North
