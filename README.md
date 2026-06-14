@@ -22,7 +22,7 @@ using Power BI for a small online seller.
 
 ## Dashboard
 
-[📊 Click here to view Dashboard PDF](FUTURE_DS_01.pdf)
+[📊 Click here to view Dashboard](DASHBOARD_01.png)
 
 ## Author
 Karthik Boddupally
